@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="content_page" unload_date="2018-08-13 11:28:37">
+    <sys_portal action="delete_multiple" query="page=b35e41e4db4197807c0d9637db961936">
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone0</dropzone>
+                <offset>2</offset>
+                <page display_value="- All Approved Documents">b35e41e4db4197807c0d9637db961936</page>
+                <summary/>
+                <sys_created_by>!SCampbellH</sys_created_by>
+                <sys_created_on>2018-03-21 10:39:02</sys_created_on>
+                <sys_id>39111d68db4197807c0d9637db96193a</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>!SCampbellH</sys_updated_by>
+                <sys_updated_on>2018-03-21 10:39:02</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 21-03-2018 10:39">39111d68db4197807c0d9637db96193a</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2018-03-21 10:39:02</sys_created_on>
+                        <sys_id>39111d68db4197807c0d9637db96193b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2018-03-21 10:39:02</sys_updated_on>
+                        <value>Active Consumer Finance Promotions by Product</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 21-03-2018 10:39">39111d68db4197807c0d9637db96193a</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2018-03-21 10:39:02</sys_created_on>
+                        <sys_id>3d111d68db4197807c0d9637db96193a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2018-03-21 10:39:02</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 21-03-2018 10:39">39111d68db4197807c0d9637db96193a</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2018-03-21 10:39:02</sys_created_on>
+                        <sys_id>75111d68db4197807c0d9637db96193b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2018-03-21 10:39:02</sys_updated_on>
+                        <value>bar</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 21-03-2018 10:39">39111d68db4197807c0d9637db96193a</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2018-03-21 10:39:02</sys_created_on>
+                        <sys_id>79111d68db4197807c0d9637db96193a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2018-03-21 10:39:02</sys_updated_on>
+                        <value>5fea638cdb8157807c0d9637db961918</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 21-03-2018 10:39">39111d68db4197807c0d9637db96193a</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2018-03-21 10:39:02</sys_created_on>
+                        <sys_id>b1111d68db4197807c0d9637db96193b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2018-03-21 10:39:02</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 21-03-2018 10:39">39111d68db4197807c0d9637db96193a</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2018-03-21 10:39:02</sys_created_on>
+                        <sys_id>f9111d68db4197807c0d9637db96193b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2018-03-21 10:39:02</sys_updated_on>
+                        <value>b35e41e4db4197807c0d9637db961936</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 21-03-2018 10:39">39111d68db4197807c0d9637db96193a</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2018-03-21 10:39:02</sys_created_on>
+                        <sys_id>fd111d68db4197807c0d9637db96193a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2018-03-21 10:39:02</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>0</offset>
+                <page display_value="- All Approved Documents">b35e41e4db4197807c0d9637db961936</page>
+                <summary/>
+                <sys_created_by>!SCampbellH</sys_created_by>
+                <sys_created_on>2018-03-21 10:39:02</sys_created_on>
+                <sys_id>79111d68db4197807c0d9637db96193c</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>!SCampbellH</sys_updated_by>
+                <sys_updated_on>2018-03-21 10:39:02</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 21-03-2018 10:39">79111d68db4197807c0d9637db96193c</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2018-03-21 10:39:02</sys_created_on>
+                        <sys_id>31111d68db4197807c0d9637db96193d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2018-03-21 10:39:02</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 21-03-2018 10:39">79111d68db4197807c0d9637db96193c</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2018-03-21 10:39:02</sys_created_on>
+                        <sys_id>3d111d68db4197807c0d9637db96193d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2018-03-21 10:39:02</sys_updated_on>
+                        <value>b35e41e4db4197807c0d9637db961936</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 21-03-2018 10:39">79111d68db4197807c0d9637db96193c</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2018-03-21 10:39:02</sys_created_on>
+                        <sys_id>79111d68db4197807c0d9637db96193d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2018-03-21 10:39:02</sys_updated_on>
+                        <value>Consumer Finance Promotions Opened Per Month Broken Down by Product</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 21-03-2018 10:39">79111d68db4197807c0d9637db96193c</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2018-03-21 10:39:02</sys_created_on>
+                        <sys_id>7d111d68db4197807c0d9637db96193c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2018-03-21 10:39:02</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 21-03-2018 10:39">79111d68db4197807c0d9637db96193c</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2018-03-21 10:39:02</sys_created_on>
+                        <sys_id>b5111d68db4197807c0d9637db96193d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2018-03-21 10:39:02</sys_updated_on>
+                        <value>trend</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 21-03-2018 10:39">79111d68db4197807c0d9637db96193c</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2018-03-21 10:39:02</sys_created_on>
+                        <sys_id>b9111d68db4197807c0d9637db96193c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2018-03-21 10:39:02</sys_updated_on>
+                        <value>c0bf67c0dbc157807c0d9637db961974</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 21-03-2018 10:39">79111d68db4197807c0d9637db96193c</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2018-03-21 10:39:02</sys_created_on>
+                        <sys_id>f1111d68db4197807c0d9637db96193d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2018-03-21 10:39:02</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone0</dropzone>
+                <offset>0</offset>
+                <page display_value="- All Approved Documents">b35e41e4db4197807c0d9637db961936</page>
+                <summary/>
+                <sys_created_by>!SCampbellH</sys_created_by>
+                <sys_created_on>2018-03-21 10:39:01</sys_created_on>
+                <sys_id>a5111d68db4197807c0d9637db961936</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>!SCampbellH</sys_updated_by>
+                <sys_updated_on>2018-03-21 10:39:01</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 21-03-2018 10:39">a5111d68db4197807c0d9637db961936</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2018-03-21 10:39:01</sys_created_on>
+                        <sys_id>21111d68db4197807c0d9637db961937</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2018-03-21 10:39:01</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 21-03-2018 10:39">a5111d68db4197807c0d9637db961936</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2018-03-21 10:39:01</sys_created_on>
+                        <sys_id>69111d68db4197807c0d9637db961937</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2018-03-21 10:39:01</sys_updated_on>
+                        <value>b35e41e4db4197807c0d9637db961936</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 21-03-2018 10:39">a5111d68db4197807c0d9637db961936</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2018-03-21 10:39:01</sys_created_on>
+                        <sys_id>6d111d68db4197807c0d9637db961936</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2018-03-21 10:39:01</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 21-03-2018 10:39">a5111d68db4197807c0d9637db961936</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2018-03-21 10:39:01</sys_created_on>
+                        <sys_id>a5111d68db4197807c0d9637db961937</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2018-03-21 10:39:01</sys_updated_on>
+                        <value>Consumer Finance Promotions Created Per Month</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 21-03-2018 10:39">a5111d68db4197807c0d9637db961936</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2018-03-21 10:39:01</sys_created_on>
+                        <sys_id>a9111d68db4197807c0d9637db961936</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2018-03-21 10:39:01</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 21-03-2018 10:39">a5111d68db4197807c0d9637db961936</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2018-03-21 10:39:01</sys_created_on>
+                        <sys_id>e1111d68db4197807c0d9637db961937</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2018-03-21 10:39:01</sys_updated_on>
+                        <value>trend</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 21-03-2018 10:39">a5111d68db4197807c0d9637db961936</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2018-03-21 10:39:01</sys_created_on>
+                        <sys_id>e5111d68db4197807c0d9637db961936</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2018-03-21 10:39:01</sys_updated_on>
+                        <value>a9f9234cdb8157807c0d9637db9619e2</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>0</offset>
+                <page display_value="- All Approved Documents">b35e41e4db4197807c0d9637db961936</page>
+                <summary/>
+                <sys_created_by>!SCampbellH</sys_created_by>
+                <sys_created_on>2018-03-21 10:39:02</sys_created_on>
+                <sys_id>b9111d68db4197807c0d9637db96193e</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>!SCampbellH</sys_updated_by>
+                <sys_updated_on>2018-03-21 10:39:02</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 21-03-2018 10:39">b9111d68db4197807c0d9637db96193e</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2018-03-21 10:39:02</sys_created_on>
+                        <sys_id>35111d68db4197807c0d9637db96193f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2018-03-21 10:39:02</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 21-03-2018 10:39">b9111d68db4197807c0d9637db96193e</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2018-03-21 10:39:02</sys_created_on>
+                        <sys_id>71111d68db4197807c0d9637db96193f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2018-03-21 10:39:02</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 21-03-2018 10:39">b9111d68db4197807c0d9637db96193e</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2018-03-21 10:39:02</sys_created_on>
+                        <sys_id>7d111d68db4197807c0d9637db96193f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2018-03-21 10:39:02</sys_updated_on>
+                        <value>b35e41e4db4197807c0d9637db961936</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 21-03-2018 10:39">b9111d68db4197807c0d9637db96193e</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2018-03-21 10:39:02</sys_created_on>
+                        <sys_id>b9111d68db4197807c0d9637db96193f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2018-03-21 10:39:02</sys_updated_on>
+                        <value>Consumer Finance Promotions Opened Per Month Broken Down by Risk</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 21-03-2018 10:39">b9111d68db4197807c0d9637db96193e</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2018-03-21 10:39:02</sys_created_on>
+                        <sys_id>bd111d68db4197807c0d9637db96193e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2018-03-21 10:39:02</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 21-03-2018 10:39">b9111d68db4197807c0d9637db96193e</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2018-03-21 10:39:02</sys_created_on>
+                        <sys_id>f5111d68db4197807c0d9637db96193f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2018-03-21 10:39:02</sys_updated_on>
+                        <value>trend</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 21-03-2018 10:39">b9111d68db4197807c0d9637db96193e</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2018-03-21 10:39:02</sys_created_on>
+                        <sys_id>f9111d68db4197807c0d9637db96193e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2018-03-21 10:39:02</sys_updated_on>
+                        <value>9b107fc0dbc157807c0d9637db9619f4</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone0</dropzone>
+                <offset>1</offset>
+                <page display_value="- All Approved Documents">b35e41e4db4197807c0d9637db961936</page>
+                <summary/>
+                <sys_created_by>!SCampbellH</sys_created_by>
+                <sys_created_on>2018-03-21 10:39:02</sys_created_on>
+                <sys_id>e5111d68db4197807c0d9637db961938</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>!SCampbellH</sys_updated_by>
+                <sys_updated_on>2018-03-21 10:39:02</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 21-03-2018 10:39">e5111d68db4197807c0d9637db961938</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2018-03-21 10:39:02</sys_created_on>
+                        <sys_id>25111d68db4197807c0d9637db961939</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2018-03-21 10:39:02</sys_updated_on>
+                        <value>trend</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 21-03-2018 10:39">e5111d68db4197807c0d9637db961938</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2018-03-21 10:39:02</sys_created_on>
+                        <sys_id>29111d68db4197807c0d9637db961938</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2018-03-21 10:39:02</sys_updated_on>
+                        <value>bddc67ccdb8157807c0d9637db961999</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 21-03-2018 10:39">e5111d68db4197807c0d9637db961938</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2018-03-21 10:39:02</sys_created_on>
+                        <sys_id>61111d68db4197807c0d9637db961939</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2018-03-21 10:39:02</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 21-03-2018 10:39">e5111d68db4197807c0d9637db961938</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2018-03-21 10:39:02</sys_created_on>
+                        <sys_id>a9111d68db4197807c0d9637db961939</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2018-03-21 10:39:02</sys_updated_on>
+                        <value>b35e41e4db4197807c0d9637db961936</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 21-03-2018 10:39">e5111d68db4197807c0d9637db961938</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2018-03-21 10:39:02</sys_created_on>
+                        <sys_id>ad111d68db4197807c0d9637db961938</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2018-03-21 10:39:02</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 21-03-2018 10:39">e5111d68db4197807c0d9637db961938</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2018-03-21 10:39:02</sys_created_on>
+                        <sys_id>e5111d68db4197807c0d9637db961939</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2018-03-21 10:39:02</sys_updated_on>
+                        <value>Consumer Finance Promotions Approved/Rejected Per Month</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 21-03-2018 10:39">e5111d68db4197807c0d9637db961938</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2018-03-21 10:39:02</sys_created_on>
+                        <sys_id>e9111d68db4197807c0d9637db961938</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2018-03-21 10:39:02</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal>
+    <content_page action="INSERT_OR_UPDATE">
+        <content_site display_value="HCUK Financial Promotions">027f3e92db6c4300243cf1061d9619ae</content_site>
+        <content_theme display_value="FinPro Database">0a59baecdb3007005d69f7671d961910</content_theme>
+        <description/>
+        <frame_buster>false</frame_buster>
+        <layout display_value="layout_3_across_only">4127db33d7111100f2d224837e610336</layout>
+        <model_id/>
+        <model_table/>
+        <name>FP - CF GRAPHS</name>
+        <order/>
+        <parent_page/>
+        <read_roles/>
+        <roles/>
+        <selectable>true</selectable>
+        <sys_class_name>content_page</sys_class_name>
+        <sys_created_by>!SCampbellH</sys_created_by>
+        <sys_created_on>2018-03-21 10:27:09</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>b35e41e4db4197807c0d9637db961936</sys_id>
+        <sys_mod_count>85</sys_mod_count>
+        <sys_name>FP - CF GRAPHS</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="HCUK Financial Promotions" source="x_hcuk2_hcuk_finan">47e0fca9dbd4c3005d69f7671d9619cd</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="HCUK Financial Promotions">47e0fca9dbd4c3005d69f7671d9619cd</sys_scope>
+        <sys_update_name>content_page_b35e41e4db4197807c0d9637db961936</sys_update_name>
+        <sys_updated_by>!SCampbellH</sys_updated_by>
+        <sys_updated_on>2018-03-21 10:39:02</sys_updated_on>
+        <title>- All Approved Documents</title>
+        <url_suffix>cfgraphs</url_suffix>
+        <user/>
+        <view/>
+        <workflow_state>published</workflow_state>
+    </content_page>
+</record_update>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="content_css">
+    <content_css action="INSERT_OR_UPDATE">
+        <name>Default CSS - Menu Styles - FP</name>
+        <style>&#13;
+/*******************************************************************************************&#13;
+   Shared Menu Block Image Classes - and their TDs&#13;
+*******************************************************************************************/&#13;
+&#13;
+.cms_menu_section_blocks_image_left, .cms_menu_section_navigation_image_left, .cms_menu_tab_blocks_image_left, .cms_menu_vertical_blocks_image_left, .cms_menu_vertical_blocks_image_left  {&#13;
+    margin-right: 4px;&#13;
+&#13;
+}&#13;
+ &#13;
+.cms_menu_section_blocks_image_right, .cms_menu_section_navigation_image_right, .cms_menu_tab_blocks_image_right, .cms_menu_vertical_blocks_image_right {&#13;
+    margin-left: 4px;&#13;
+}&#13;
+&#13;
+td.cms_menu_vertical_blocks_image_left, td.cms_menu_vertical_blocks_image_right{&#13;
+	width: 16px;&#13;
+}&#13;
+&#13;
+img.menu_bullet {&#13;
+	margin-right:8px;&#13;
+}&#13;
+&#13;
+&#13;
+/*******************************************************************************************&#13;
+   Vertical List Menu cms_menu_vertical_blocks&#13;
+*******************************************************************************************/&#13;
+div.cms_menu_vertical_section_container{&#13;
+       width:300px;&#13;
+	margin-bottom: 0px;&#13;
+&#13;
+}&#13;
+&#13;
+a.cms_menu_vertical_item {&#13;
+	background-color: transparent;&#13;
+	padding: 4px 4px 4px 20px;&#13;
+	display: block;&#13;
+	color: #666;&#13;
+}&#13;
+&#13;
+a.cms_menu_vertical_item:hover {&#13;
+       &#13;
+	background-color: #CCC;&#13;
+	color:  #FFF;&#13;
+}&#13;
+&#13;
+a.cms_menu_vertical_item:active  {&#13;
+	background-color: #f5f8fd;&#13;
+}&#13;
+&#13;
+td.cms_menu_section_navigation_title , td.cms_menu_section_navigation_title  a {&#13;
+	font-size: 12px;&#13;
+	font-weight: bold;&#13;
+	margin:0;&#13;
+	padding: 0px;&#13;
+}&#13;
+&#13;
+td.cms_menu_section_navigation_title span.cms_menu_second_level_text, td.cms_menu_tab_blocks_text span.cms_menu_second_level_text {&#13;
+	font-weight: normal;&#13;
+	color: #666;&#13;
+}&#13;
+&#13;
+tr.cms_menu_vertical_section {&#13;
+	background-color: #F6F6F6;&#13;
+	border-bottom: 2px solid #CCC;&#13;
+	color:#666;&#13;
+}&#13;
+&#13;
+h2 {&#13;
+padding-left:10px;&#13;
+font-size: 15px;&#13;
+}&#13;
+&#13;
+&#13;
+&#13;
+</style>
+        <sys_class_name>content_css</sys_class_name>
+        <sys_created_by>!SCampbellH</sys_created_by>
+        <sys_created_on>2017-08-22 12:30:39</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>2b230724db7007005d69f7671d96198b</sys_id>
+        <sys_mod_count>76</sys_mod_count>
+        <sys_name>Default CSS - Menu Styles - FP</sys_name>
+        <sys_package display_value="HCUK Financial Promotions" source="x_hcuk2_hcuk_finan">47e0fca9dbd4c3005d69f7671d9619cd</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="HCUK Financial Promotions">47e0fca9dbd4c3005d69f7671d9619cd</sys_scope>
+        <sys_update_name>content_css_2b230724db7007005d69f7671d96198b</sys_update_name>
+        <sys_updated_by>!SCampbellH</sys_updated_by>
+        <sys_updated_on>2017-08-22 21:49:53</sys_updated_on>
+        <type>local</type>
+        <url/>
+    </content_css>
+</record_update>

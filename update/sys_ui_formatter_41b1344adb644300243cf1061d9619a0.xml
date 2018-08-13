@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_formatter">
+    <sys_ui_formatter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <angular_module/>
+        <formatter>process_flow.xml</formatter>
+        <name>Process Flow</name>
+        <sys_class_name>sys_ui_formatter</sys_class_name>
+        <sys_created_by>!SCampbellH</sys_created_by>
+        <sys_created_on>2017-08-14 07:30:14</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>41b1344adb644300243cf1061d9619a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Process Flow</sys_name>
+        <sys_package display_value="HCUK Financial Promotions" source="x_hcuk2_hcuk_finan">47e0fca9dbd4c3005d69f7671d9619cd</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="HCUK Financial Promotions">47e0fca9dbd4c3005d69f7671d9619cd</sys_scope>
+        <sys_update_name>sys_ui_formatter_41b1344adb644300243cf1061d9619a0</sys_update_name>
+        <sys_updated_by>!SCampbellH</sys_updated_by>
+        <sys_updated_on>2017-08-14 07:30:14</sys_updated_on>
+        <table>x_hcuk2_hcuk_finan_promotional_material</table>
+        <type>formatter</type>
+    </sys_ui_formatter>
+</record_update>

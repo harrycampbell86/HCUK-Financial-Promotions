@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="requestor_question_17" label="Have any required risk warnings been included? (where relevant)" language="en" table="x_hcuk2_hcuk_finan_promotional_material">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>requestor_question_17</element>
+            <help/>
+            <hint>"E.g. Secured lending, Auto Contra Settlement, ownership of assets, end of contract conditions, maintenance responsibilities, excess mileage charge etc.
+
+Risk warnings should be given equal prominence so that the promotion is ‘balanced’.
+
+Only answer N/A if no risk warnings are required. "</hint>
+            <label>Have any required risk warnings been included? (where relevant)</label>
+            <language>en</language>
+            <name>x_hcuk2_hcuk_finan_promotional_material</name>
+            <plural>Have any required risk warnings been included? (where relevant)</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>!SCampbellH</sys_created_by>
+            <sys_created_on>2017-08-14 13:26:30</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>6733ca0adbe44300243cf1061d9619ec</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Have any required risk warnings been included? (where relevant)</sys_name>
+            <sys_package display_value="HCUK Financial Promotions" source="x_hcuk2_hcuk_finan">47e0fca9dbd4c3005d69f7671d9619cd</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="HCUK Financial Promotions">47e0fca9dbd4c3005d69f7671d9619cd</sys_scope>
+            <sys_update_name>sys_documentation_x_hcuk2_hcuk_finan_promotional_material_requestor_question_17_en</sys_update_name>
+            <sys_updated_by>!SCampbellH</sys_updated_by>
+            <sys_updated_on>2017-08-30 06:17:14</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

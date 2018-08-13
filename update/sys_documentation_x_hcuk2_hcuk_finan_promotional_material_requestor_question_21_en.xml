@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="requestor_question_21" label="Does the promotion contain an incentive or a comparison?" language="en" table="x_hcuk2_hcuk_finan_promotional_material">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>requestor_question_21</element>
+            <help/>
+            <hint>Incentives are anything that promotes the brand, products or anything that invites or attempts to persuade customers to take out the products marketed. Examples include:
+o Buy now pay later
+o Nothing to pay for 12months 
+o No deposit required 
+o Super-fast loans
+o Low rate loans
+o Easy finance
+o Nothing to pay for a year 
+o Limited offer
+o X% discount 
+o Any statement regarding the speed of making funds available, processing, considering or granting the loan
+
+
+Any comparisons used must be factual, compare like for like information, and avoid defamatory statements about competitors. It must also be clear what date the comparative information was correct, and be clear who is being compared against.</hint>
+            <label>Does the promotion contain an incentive or a comparison?</label>
+            <language>en</language>
+            <name>x_hcuk2_hcuk_finan_promotional_material</name>
+            <plural>Does the promotion contain an incentive or a comparison?s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>!SCampbellH</sys_created_by>
+            <sys_created_on>2017-08-14 13:26:30</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>e333ca0adbe44300243cf1061d9619ee</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Does the promotion contain an incentive or a comparison?</sys_name>
+            <sys_package display_value="HCUK Financial Promotions" source="x_hcuk2_hcuk_finan">47e0fca9dbd4c3005d69f7671d9619cd</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="HCUK Financial Promotions">47e0fca9dbd4c3005d69f7671d9619cd</sys_scope>
+            <sys_update_name>sys_documentation_x_hcuk2_hcuk_finan_promotional_material_requestor_question_21_en</sys_update_name>
+            <sys_updated_by>!SCampbellH</sys_updated_by>
+            <sys_updated_on>2017-09-14 07:37:33</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

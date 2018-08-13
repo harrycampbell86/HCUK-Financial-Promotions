@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="content_page" unload_date="2018-08-13 11:28:35">
+    <sys_portal action="delete_multiple" query="page=8fa446130f0d47003a5bc9cce1050e4f">
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone10</dropzone>
+                <offset>0</offset>
+                <page display_value="- All Approved Documents">8fa446130f0d47003a5bc9cce1050e4f</page>
+                <summary/>
+                <sys_created_by>!SCampbellH</sys_created_by>
+                <sys_created_on>2017-09-12 07:17:27</sys_created_on>
+                <sys_id>5ce44a130f0d47003a5bc9cce1050ebd</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>!SCampbellH</sys_updated_by>
+                <sys_updated_on>2017-09-12 07:17:27</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 12-09-2017 08:17">5ce44a130f0d47003a5bc9cce1050ebd</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2017-09-12 07:17:27</sys_created_on>
+                        <sys_id>14e44a130f0d47003a5bc9cce1050ebe</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2017-09-12 07:17:27</sys_updated_on>
+                        <value>user_profile_update</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 12-09-2017 08:17">5ce44a130f0d47003a5bc9cce1050ebd</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2017-09-12 07:17:27</sys_created_on>
+                        <sys_id>50e44a130f0d47003a5bc9cce1050ebe</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2017-09-12 07:17:27</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 12-09-2017 08:17">5ce44a130f0d47003a5bc9cce1050ebd</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2017-09-12 07:17:27</sys_created_on>
+                        <sys_id>98e44a130f0d47003a5bc9cce1050ebe</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2017-09-12 07:17:27</sys_updated_on>
+                        <value>8fa446130f0d47003a5bc9cce1050e4f</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 12-09-2017 08:17">5ce44a130f0d47003a5bc9cce1050ebd</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2017-09-12 07:17:27</sys_created_on>
+                        <sys_id>9ce44a130f0d47003a5bc9cce1050ebd</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2017-09-12 07:17:27</sys_updated_on>
+                        <value>447616b1dc3809002a52b14d9e3306c6</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 12-09-2017 08:17">5ce44a130f0d47003a5bc9cce1050ebd</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2017-09-12 07:17:27</sys_created_on>
+                        <sys_id>d4e44a130f0d47003a5bc9cce1050ebe</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2017-09-12 07:17:27</sys_updated_on>
+                        <value>content_block_static</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal>
+    <content_page action="INSERT_OR_UPDATE">
+        <content_site display_value="HCUK Financial Promotions">027f3e92db6c4300243cf1061d9619ae</content_site>
+        <content_theme display_value="FinPro Database">0a59baecdb3007005d69f7671d961910</content_theme>
+        <description/>
+        <frame_buster>false</frame_buster>
+        <layout display_value="CMS 2 Column Narrow Left">6cf81aea0a0a0b9a00fc35f0d1dd71d8</layout>
+        <model_id/>
+        <model_table/>
+        <name>FP - User Updated</name>
+        <order/>
+        <parent_page/>
+        <read_roles/>
+        <roles/>
+        <selectable>true</selectable>
+        <sys_class_name>content_page</sys_class_name>
+        <sys_created_by>!SCampbellH</sys_created_by>
+        <sys_created_on>2017-09-12 07:16:32</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>8fa446130f0d47003a5bc9cce1050e4f</sys_id>
+        <sys_mod_count>17</sys_mod_count>
+        <sys_name>FP - User Updated</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="HCUK Financial Promotions" source="x_hcuk2_hcuk_finan">47e0fca9dbd4c3005d69f7671d9619cd</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="HCUK Financial Promotions">47e0fca9dbd4c3005d69f7671d9619cd</sys_scope>
+        <sys_update_name>content_page_8fa446130f0d47003a5bc9cce1050e4f</sys_update_name>
+        <sys_updated_by>!SCampbellH</sys_updated_by>
+        <sys_updated_on>2017-09-12 07:17:27</sys_updated_on>
+        <title>- All Approved Documents</title>
+        <url_suffix>user_updated</url_suffix>
+        <user/>
+        <view/>
+        <workflow_state>published</workflow_state>
+    </content_page>
+</record_update>

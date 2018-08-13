@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_instance_link">
+    <sp_instance_link action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description>Click here to submit a new promotion and upload documents</short_description>
+        <size>md</size>
+        <sp_column display_value="1">cbb09a52db2c4300243cf1061d96191d</sp_column>
+        <sp_page display_value="form">ed5f8ec347730200ba13a5554ee49046</sp_page>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>!SCampbellH</sys_created_by>
+        <sys_created_on>2017-08-22 10:15:31</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>0844a628db3007005d69f7671d9619ee</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>New Promotion SP</sys_name>
+        <sys_package display_value="HCUK Financial Promotions" source="x_hcuk2_hcuk_finan">47e0fca9dbd4c3005d69f7671d9619cd</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="HCUK Financial Promotions">47e0fca9dbd4c3005d69f7671d9619cd</sys_scope>
+        <sys_update_name>sp_instance_link_0844a628db3007005d69f7671d9619ee</sys_update_name>
+        <sys_updated_by>!SCampbellH</sys_updated_by>
+        <sys_updated_on>2017-08-22 10:16:55</sys_updated_on>
+        <title>New Promotion SP</title>
+        <type>url</type>
+        <url>x_hcuk2_hcuk_finan_promotions.do</url>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+</record_update>

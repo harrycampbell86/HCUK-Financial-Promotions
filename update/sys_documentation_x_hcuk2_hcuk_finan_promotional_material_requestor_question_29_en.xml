@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="requestor_question_29" label="Does the Representative Example contain the required information?" language="en" table="x_hcuk2_hcuk_finan_promotional_material">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>requestor_question_29</element>
+            <help/>
+            <hint>"Must be labelled “Representative Example”.
+
+All of the required information must be given equal prominence, be in the required format, and be set out correctly.
+
+Select N/A for interest free or if a Representative Example is not triggered."</hint>
+            <label>Does the Representative Example contain the required information?</label>
+            <language>en</language>
+            <name>x_hcuk2_hcuk_finan_promotional_material</name>
+            <plural>Does the Representative Example contain the required information?s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>!SCampbellH</sys_created_by>
+            <sys_created_on>2017-08-14 13:26:29</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>6333ca0adbe44300243cf1061d9619ce</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_name>Does the Representative Example contain the required information?</sys_name>
+            <sys_package display_value="HCUK Financial Promotions" source="x_hcuk2_hcuk_finan">47e0fca9dbd4c3005d69f7671d9619cd</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="HCUK Financial Promotions">47e0fca9dbd4c3005d69f7671d9619cd</sys_scope>
+            <sys_update_name>sys_documentation_x_hcuk2_hcuk_finan_promotional_material_requestor_question_29_en</sys_update_name>
+            <sys_updated_by>!SCampbellH</sys_updated_by>
+            <sys_updated_on>2017-08-30 06:18:15</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

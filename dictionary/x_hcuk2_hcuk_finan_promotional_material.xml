@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" label="Promotional Material" max_length="40" name="x_hcuk2_hcuk_finan_promotional_material" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Approval Channel" max_length="40" name="approval_channel" read_only="true" type="string">
+            <choice>
+                <element label="Business Unit" sequence="0" value="Business Unit"/>
+                <element label="Compliance" sequence="1" value="Compliance"/>
+                <element label="Business Unit or Compliance" sequence="2" value="Business Unit or Compliance"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Has the promotion been sense checked for typos and errors?" max_length="40" name="approver_question_1" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="This can be a telephone number, website or an email address." label="Is a contact point given to customers?" max_length="40" name="approver_question_10" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="&quot;E.g. “Authorised and regulated by the Financial Conduct Authority” written in full. This cannot be abbreviated to “FCA”.&#10;&#10;Please refer to the Financial Promotions Guidelines for the standard regulatory disclosure statement(s).&#10;&#10;Only answer N/A if image advertising. &#10;&quot;" label="Is the relevant FCA regulatory disclosure statement included?" max_length="40" name="approver_question_11" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Not Applicable" sequence="3" value="Not Applicable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="Only answer N/A if regulated and non-regulated products are not advertised in conjunction." label="If both regulated and non-regulated products are promoted, is this made clear?" max_length="40" name="approver_question_12" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Not Applicable" sequence="3" value="Not Applicable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="E.g. gender, sexuality, racisim, cultural - or any other association which could bring reputational damage." label="Have matters of social responsibility, harm and offence been considered?" max_length="40" name="approver_question_13" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="The promotion should use plain, intelligible language, suitable for the target audience, and if necessary, jargon should explained or cross-referenced to an explanation/FAQ (including including for T&amp;C’s, footnotes etc)." label="Is the language clear, in plain English and as jargon-free as possible?" max_length="40" name="approver_question_14" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="&quot;These can also be cross-referenced to an explanation/FAQ.&#10;&#10;Only answer N/A if jargon is not used.&quot;" label="If any jargon terms are included, are these explained?" max_length="40" name="approver_question_15" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Not Applicable" sequence="3" value="Not Applicable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="&quot;This includes and asterisks, footer text etc, and should be legible in all formats.&#10;&#10;Only answer N/A if no footnotes are used. &quot;" label="Are footnotes, conditions, qualifying statements, clear, prominent and legible?" max_length="40" name="approver_question_16" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Not Applicable" sequence="3" value="Not Applicable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="&quot;E.g. Secured lending, Auto Contra Settlement, ownership of assets, end of contract conditions, maintenance responsibilities, excess mileage charge etc.&#10;&#10;Risk warnings should be given equal prominence so that the promotion is ‘balanced’.&#10;&#10;Only answer N/A if no risk warnings are required. &quot;" label="Have any required risk warnings been included? (where relevant)" max_length="40" name="approver_question_17" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Not Applicable" sequence="3" value="Not Applicable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="&quot;E.g. limited time offers, limited stock offers.&#10;&#10;Only answer N/A if no limitations are included. &quot;" label="Are any limitations for which the offer or promotion is valid clearly explained?" max_length="40" name="approver_question_18" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Not Applicable" sequence="3" value="Not Applicable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="Promotions cannot rely on any other information being on for example a landing page i.e. there is no 'click away rule'." label="Is the promotion ‘standalone compliant’?" max_length="40" name="approver_question_19" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Is the promotion clear, fair and not misleading?" max_length="40" name="approver_question_2" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="&quot;This must also give the customer appropriate information before they apply.&#10;&#10;N/A if non digital media&quot;" label="For digital media is the landing page &amp; customer click through journey balanced?" max_length="40" name="approver_question_20" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Not Applicable" sequence="3" value="Not Applicable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="Incentives are anything that promotes the brand, products or anything that invites or attempts to persuade customers to take out the products marketed. Examples include:&#10;o Buy now pay later&#10;o Nothing to pay for 12months &#10;o No deposit required &#10;o Super-fast loans&#10;o Low rate loans&#10;o Easy finance&#10;o Nothing to pay for a year &#10;o Limited offer&#10;o X% discount &#10;o Any statement regarding the speed of making funds available, processing, considering or granting the loan&#10;&#10;&#10;Any comparisons used must be factual, compare like for like information, and avoid defamatory statements about competitors. It must also be clear what date the comparative information was correct, and be clear who is being compared against." label="Does the promotion contain an incentive or a comparison?" max_length="40" name="approver_question_21" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="E.g. &quot;Poor credit history? We may be able to help”" label="Is the promotion promoted to those thought to have restricted access to credit?" max_length="40" name="approver_question_22" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="N/A for image advertising" label="Is it clear that credit is Subject to Status or Subject to Affordability?" max_length="40" name="approver_question_23" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Not Applicable" sequence="3" value="Not Applicable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="&quot;This must be displayed no less prominently than the trigger, all in the same font &amp; style and be displayed as either - X.X% APR Representative or Representative X.X% APR.&#10;&#10;For interest free products, a Representative APR is not required.&quot;" label="Does the promotion include the Representative APR?" max_length="40" name="approver_question_24" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="&quot;Any qualifying statements must be prominently accompany the Representative APR - e.g. valid on loans between £7.5k -£15k.&#10;&#10;N/A if representative APR is not triggered. &quot;" label="Has the value of the Representative APR been validated &amp; passed the ’51% test’?" max_length="40" name="approver_question_25" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Not Applicable" sequence="3" value="Not Applicable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="A trigger would include:&#10;&#10;- a rate of interest (e.g. 5.5%p.a. or 6.9% APR)&#10;- an amount relating to the cost of credit whether expressed as a sum of money or a proportion of a specified amount. (e.g. 'from £125.36 per month', 'Borrow £10k and only pay £500 in interest')" label="Are there are Representative Examples triggers?" max_length="40" name="approver_question_26" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Is the product advertised interest free (0% APR Representative)?" max_length="40" name="approver_question_27" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="This must displayed no less prominently than the trigger, and all in the same font and style.&#10;Select N/A if either of the below exceptions apply.&#10;&#10;Exception 1: For interest free products, a Representative Example is not required. &#10;&#10;Exception 2: If a promotion contains an incentive and includes only the representative APR, then a representative example is not required." label="Does the promotion include the Representative Example?" max_length="40" name="approver_question_28" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Not Applicable" sequence="3" value="Not Applicable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="&quot;Must be labelled “Representative Example”.&#10;&#10;All of the required information must be given equal prominence, be in the required format, and be set out correctly.&#10;&#10;Select N/A for interest free or if a Representative Example is not triggered.&quot;" label="Does the Representative Example contain the required information?" max_length="40" name="approver_question_29" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Not Applicable" sequence="3" value="Not Applicable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="If applicable." label="Does the literature clearly state the features of the product/service?" max_length="40" name="approver_question_3" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Not Applicable" sequence="3" value="Not Applicable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="&quot;This must be validated as being the most likely to be applied for as a result of the promotion? E.g. CCD Monitoring.&#10;&#10;Select N/A if a Representative Example is not triggered.&quot;" label="Have the terms quoted in the representative example been validated?" max_length="40" name="approver_question_30" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Not Applicable" sequence="3" value="Not Applicable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="Select N/A if a Representative Example is not triggered." label="Where a Representative Example is included, is the postal address also provided?" max_length="40" name="approver_question_31" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Not Applicable" sequence="3" value="Not Applicable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Is the promotion clearly identified as Business or Personal?" max_length="40" name="approver_question_32" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Are the ownership terms of asset/vehicle clear under the agreement?" max_length="40" name="approver_question_33" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="Where credit is being advertised for the sale or supply of goods, the examples displayed must be for the goods pictured, not a different specification or derivative." label="Are any images clear, fair and not misleading?" max_length="40" name="approver_question_34" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="N/A if no monthly cost is included" label="Where the monthly cost is included, is an illustrative example also included?" max_length="40" name="approver_question_35" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Not Applicable" sequence="3" value="Not Applicable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="&quot;Considering - clear, fair, non misleading, balanced, ommisions, risk warnings.&#10;&#10;E.g. initial rental, term, annual mileage limit.&#10;&#10;N/A if no monthly cost is included&quot;" label="Does the illustrative example contain all of the relevant information?" max_length="40" name="approver_question_36" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Not Applicable" sequence="3" value="Not Applicable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Does the promotion clearly explain the nature of Salary Sacrifice?" max_length="40" name="approver_question_37" type="choice">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="N/A if tax advantanges / disadvantages are not inlcuded." label="Does the promotion include a clear explanation of the cost and tax liabilities?" max_length="40" name="approver_question_38" type="choice">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Not Applicable" sequence="3" value="Not Applicable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Does the regulatory disclosure statement include the insurance element?" max_length="40" name="approver_question_39" type="choice">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="Consider all the other channels that HCUK uses - E.g. Features of the agreement consistant with T&amp;C’s, websites, letters, FAQ, other promotional material." label="Is the information consistent with other information HCUK provides to customers?" max_length="40" name="approver_question_4" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="This applies wherever HCUK is marketing a customer directly through letter, email, and/or text." label="For direct mail, is an opt-out of marketing included?" max_length="40" name="approver_question_40" type="choice">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="Provide details of any elements which would make the promotion insufficient, unclear, unfair, un balanced or misleading?" label="Are there any exclusions, or omissions of key information?" max_length="40" name="approver_question_5" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="Only answer N/A if no benefits are included in the promotion." label="Do the benefits and associated disadvantages both have equal prominence?" max_length="40" name="approver_question_6" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Not Applicable" sequence="3" value="Not Applicable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="&quot;Evidence of the substantiation must be documented, including where any endorsements or testimonials are being made, and sources must be made clear. &#10;&#10;Only answer N/A if no statements or comparisons are included in the promotion.&quot;" label="Are all statements and comparisons accurate?" max_length="40" name="approver_question_7" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Not Applicable" sequence="3" value="Not Applicable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="Only answer N/A if no product features or benefits are included in the promotion." label="Are the product features and benefits factual and not over-stated?" max_length="40" name="approver_question_8" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Not Applicable" sequence="3" value="Not Applicable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="Only applicable when used to base figures/statements on." label="Are any assumptions, conditions, or critera prominently displayed?" max_length="40" name="approver_question_9" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Not Applicable" sequence="3" value="Not Applicable"/>
+            </choice>
+        </element>
+        <element label="Date Withdrawn" max_length="40" name="date_withdrawn" read_only="true" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Document Approved" max_length="40" name="document_approved" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Extension Approval Timestamp" max_length="40" name="extension_approval_timestamp" read_only="true" type="glide_date_time"/>
+        <element label="Extension Approved by" max_length="32" name="extension_approved_by" read_only="true" reference="sys_user" type="reference"/>
+        <element default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Has the promotion been sense checked for typos and errors?" max_length="40" name="requestor_question_1" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" hint="This can be a telephone number, website or an email address." label="Is a contact point given to customers?" max_length="40" name="requestor_question_10" type="choice">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" hint="&quot;E.g. “Authorised and regulated by the Financial Conduct Authority” written in full. This cannot be abbreviated to “FCA”.&#10;&#10;Please refer to the Financial Promotions Guidelines for the standard regulatory disclosure statement(s).&#10;&#10;Only answer N/A if image advertising." label="Is the relevant FCA regulatory disclosure statement included?" max_length="40" name="requestor_question_11" type="choice">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Not Applicable" sequence="3" value="Not Applicable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" hint="Only answer N/A if regulated and non-regulated products are not advertised in conjunction." label="If both regulated and non-regulated products are promoted, is this made clear?" max_length="40" name="requestor_question_12" type="choice">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Not Applicable" sequence="3" value="Not Applicable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" hint="E.g. gender, sexuality, racisim, cultural - or any other association which could bring reputational damage." label="Have matters of social responsibility, harm and offence been considered?" max_length="40" name="requestor_question_13" type="choice">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" hint="The promotion should use plain, intelligible language, suitable for the target audience, and if necessary, jargon should explained or cross-referenced to an explanation/FAQ (including including for T&amp;C’s, footnotes etc)." label="Is the language clear, in plain English and as jargon-free as possible?" max_length="40" name="requestor_question_14" type="choice">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" hint="&quot;These can also be cross-referenced to an explanation/FAQ.&#10;&#10;Only answer N/A if jargon is not used.&quot;" label="If any jargon terms are included, are these explained?" max_length="40" name="requestor_question_15" type="choice">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Not Applicable" sequence="3" value="Not Applicable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" hint="This includes and asterisks, footer text etc, and should be legible in all formats." label="Are footnotes, conditions, qualifying statements, clear, prominent and legible?" max_length="40" name="requestor_question_16" type="choice">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Not Applicable" sequence="3" value="Not Applicable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" hint="&quot;E.g. Secured lending, Auto Contra Settlement, ownership of assets, end of contract conditions, maintenance responsibilities, excess mileage charge etc.&#10;&#10;Risk warnings should be given equal prominence so that the promotion is ‘balanced’.&#10;&#10;Only answer N/A if no risk warnings are required. &quot;" label="Have any required risk warnings been included? (where relevant)" max_length="40" name="requestor_question_17" type="choice">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Not Applicable" sequence="3" value="Not Applicable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" hint="&quot;E.g. limited time offers, limited stock offers.&#10;&#10;Only answer N/A if no limitations are included. &quot;" label="Are any limitations for which the offer or promotion is valid clearly explained?" max_length="40" name="requestor_question_18" type="choice">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Not Applicable" sequence="3" value="Not Applicable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" hint="Promotions cannot rely on any other information being on for example a landing page i.e. there is no 'click away rule'." label="Is the promotion ‘standalone compliant’?" max_length="40" name="requestor_question_19" type="choice">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Is the promotion clear, fair and not misleading?" max_length="40" name="requestor_question_2" type="choice">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" hint="&quot;This must also give the customer appropriate information before they apply.&#10;&#10;N/A if non digital media&quot;" label="For digital media is the landing page &amp; customer click through journey balanced?" max_length="40" name="requestor_question_20" type="choice">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Not Applicable" sequence="3" value="Not Applicable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" hint="Incentives are anything that promotes the brand, products or anything that invites or attempts to persuade customers to take out the products marketed. Examples include:&#10;o Buy now pay later&#10;o Nothing to pay for 12months &#10;o No deposit required &#10;o Super-fast loans&#10;o Low rate loans&#10;o Easy finance&#10;o Nothing to pay for a year &#10;o Limited offer&#10;o X% discount &#10;o Any statement regarding the speed of making funds available, processing, considering or granting the loan&#10;&#10;&#10;Any comparisons used must be factual, compare like for like information, and avoid defamatory statements about competitors. It must also be clear what date the comparative information was correct, and be clear who is being compared against." label="Does the promotion contain an incentive or a comparison?" max_length="40" name="requestor_question_21" type="choice">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" hint="E.g. &quot;Poor credit history? We may be able to help”" label="Is the promotion promoted to those thought to have restricted access to credit?" max_length="40" name="requestor_question_22" type="choice">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" hint="N/A for image advertising" label="Is it clear that credit is Subject to Status or Subject to Affordability?" max_length="40" name="requestor_question_23" type="choice">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Not Applicable" sequence="3" value="Not Applicable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" hint="&quot;This must be displayed no less prominently than the trigger, all in the same font &amp; style and be displayed as either - X.X% APR Representative or Representative X.X% APR.&#10;&#10;For interest free products, a Representative APR is not required.&quot;" label="Does the promotion include the Representative APR?" max_length="40" name="requestor_question_24" type="choice">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" hint="&quot;Any qualifying statements must be prominently accompany the Representative APR - e.g. valid on loans between £7.5k -£15k.&#10;&#10;N/A if representative APR is not triggered. &quot;" label="Has the value of the Representative APR been validated &amp; passed the ’51% test’?" max_length="40" name="requestor_question_25" type="choice">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Not Applicable" sequence="3" value="Not Applicable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" hint="A trigger would include:&#10;&#10;- a rate of interest (e.g. 5.5%p.a. or 6.9% APR)&#10;- an amount relating to the cost of credit whether expressed as a sum of money or a proportion of a specified amount. (e.g. 'from £125.36 per month', 'Borrow £10k and only pay £500 in interest')" label="Are there are Representative Examples triggers?" max_length="40" name="requestor_question_26" type="choice">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Is the product advertised interest free (0% APR Representative)?" max_length="40" name="requestor_question_27" type="choice">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" hint="This must displayed no less prominently than the trigger, and all in the same font and style.&#10;Select N/A if either of the below exceptions apply.&#10;&#10;Exception 1: For interest free products, a Representative Example is not required. &#10;&#10;Exception 2: If a promotion contains an incentive and includes only the representative APR, then a representative example is not required." label="Does the promotion include the Representative Example?" max_length="40" name="requestor_question_28" type="choice">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Not Applicable" sequence="3" value="Not Applicable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="&quot;Must be labelled “Representative Example”.&#10;&#10;All of the required information must be given equal prominence, be in the required format, and be set out correctly.&#10;&#10;Select N/A for interest free or if a Representative Example is not triggered.&quot;" label="Does the Representative Example contain the required information?" max_length="40" name="requestor_question_29" type="choice">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Not Applicable" sequence="3" value="Not Applicable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="If Applicable" label="Does the literature clearly state the features of the product/service?" max_length="40" name="requestor_question_3" type="choice">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Not Applicable" sequence="3" value="Not Applicable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" hint="&quot;This must be validated as being the most likely to be applied for as a result of the promotion? E.g. CCD Monitoring.&#10;&#10;Select N/A if a Representative Example is not triggered.&quot;" label="Have the terms quoted in the representative example been validated?" max_length="40" name="requestor_question_30" type="choice">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Not Applicable" sequence="3" value="Not Applicable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" hint="Select N/A if a Representative Example is not triggered." label="Where a Representative Example is included, is the postal address also provided?" max_length="40" name="requestor_question_31" type="choice">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Not Applicable" sequence="3" value="Not Applicable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Is the promotion clearly identified as Business or Personal?" max_length="40" name="requestor_question_32" type="choice">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Are the ownership terms of asset/vehicle clear under the agreement?" max_length="40" name="requestor_question_33" type="choice">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" hint="Where credit is being advertised for the sale or supply of goods, the examples displayed must be for the goods pictured, not a different specification or derivative." label="Are any images clear, fair and not misleading?" max_length="40" name="requestor_question_34" type="choice">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" hint="N/A if no monthly cost is included" label="Where the monthly cost is included, is an illustrative example also included?" max_length="40" name="requestor_question_35" type="choice">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Not Applicable" sequence="3" value="Not Applicable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" hint="&quot;Considering - clear, fair, non misleading, balanced, ommisions, risk warnings.&#10;&#10;E.g. initial rental, term, annual mileage limit.&#10;&#10;N/A if no monthly cost is included&quot;" label="Does the illustrative example contain all of the relevant information?" max_length="40" name="requestor_question_36" type="choice">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Not Applicable" sequence="3" value="Not Applicable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Does the promotion clearly explain the nature of Salary Sacrifice?" max_length="40" name="requestor_question_37" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="N/A if tax advantanges / disadvantages are not inlcuded." label="Does the promotion include a clear explanation of the cost and tax liabilities?" max_length="40" name="requestor_question_38" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Not Applicable" sequence="3" value="Not Applicable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Does the regulatory disclosure statement include the insurance element?" max_length="40" name="requestor_question_39" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="Consider all the other channels that HCUK uses - E.g. Features of the agreement consistant with T&amp;C’s, websites, letters, FAQ, other promotional material." label="Is the information consistent with other information HCUK provides to customers?" max_length="40" name="requestor_question_4" type="choice">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="This applies wherever HCUK is marketing a customer directly through letter, email, and/or text." label="For direct mail, is an opt-out of marketing included?" max_length="40" name="requestor_question_40" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Not Applicable" sequence="2" value="Not Applicable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="Provide details of any elements which would make the promotion insufficient, unclear, unfair, un balanced or misleading?" label="Are there any exclusions, or omissions of key information?" max_length="40" name="requestor_question_5" type="choice">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="Only answer N/A if no benefits are included in the promotion." label="Do the benefits and associated disadvantages both have equal prominence?" max_length="40" name="requestor_question_6" type="choice">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Not Applicable" sequence="3" value="Not Applicable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="&quot;Evidence of the substantiation must be documented, including where any endorsements or testimonials are being made, and sources must be made clear. &#10;&#10;Only answer N/A if no statements or comparisons are included in the promotion.&quot;" label="Are all statements and comparisons accurate?" max_length="40" name="requestor_question_7" type="choice">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Not Applicable" sequence="3" value="Not Applicable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" hint="Only answer N/A if no product features or benefits are included in the promotion." label="Are the product features and benefits factual and not over-stated?" max_length="40" name="requestor_question_8" type="choice">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Not Applicable" sequence="3" value="Not Applicable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" hint="Only applicable when used to base figures/statements on." label="Are any assumptions, conditions, or critera prominently displayed?" max_length="40" name="requestor_question_9" type="choice">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Not Applicable" sequence="3" value="Not Applicable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Target Audience" max_length="40" name="target_audience" type="string">
+            <choice>
+                <element label="Existing" sequence="10" value="Existing"/>
+                <element label="New" sequence="10" value="New"/>
+            </choice>
+        </element>
+        <element default="&lt;a href=&quot;/sys_attachment.do?sys_id=e833d43cdb600300243cf1061d961961&quot; target=&quot;_blank&quot;&gt;Click here to download Approver Checklist Template&lt;/a&gt;" label="Template" max_length="1024" name="u_ac_template" read_only="true" type="url"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="Pending" label="Approval" max_length="40" name="u_approval" read_only="true" type="string">
+            <choice>
+                <element label="Pending" sequence="0" value="Pending"/>
+                <element label="Approved" sequence="1" value="Approved"/>
+                <element label="Rejected" sequence="2" value="Rejected"/>
+                <element label="Cancelled" sequence="3" value="Cancelled"/>
+            </choice>
+        </element>
+        <element label="Approved/Rejected By" max_length="32" name="u_approved_by" read_only="true" reference="sys_user" type="reference"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Additional Reviewers" max_length="1024" name="u_approvers" reference="sys_user" type="glide_list"/>
+        <element attributes="edge_encryption_enabled=true" label="Approver Checklist Comments" max_length="4000" name="u_approver_comments" type="string"/>
+        <element label="Campaign End Date" mandatory="true" max_length="40" name="u_campaign_end" type="glide_date"/>
+        <element label="Campaign Start Date" mandatory="true" max_length="40" name="u_campaign_start" type="glide_date"/>
+        <element default="&lt;a href=&quot;/sys_attachment.do?sys_id=ae23d03cdb600300243cf1061d9619c9&quot; target=&quot;_blank&quot;&gt;Click here to download Compliance Checklist Template&lt;/a&gt;" label="Template" max_length="1024" name="u_cc_template" read_only="true" type="url"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Published Status" max_length="40" name="u_choice_2" read_only="true" type="string">
+            <choice>
+                <element label="Published" sequence="0" value="Published"/>
+                <element label="Withdrawn" sequence="1" value="Withdrawn"/>
+            </choice>
+        </element>
+        <element label="Compliance Approver" max_length="32" name="u_compliance_approver" reference="sys_user" reference_qual="javascript:GetComplianceMembers();" type="reference" use_reference_qualifier="advanced"/>
+        <element label="Compliance Checklist" max_length="32" name="u_compliance_checklist" reference="sys_attachment" reference_qual="javascript:&quot;table_sys_id=&quot; + current.sys_id" type="reference" use_reference_qualifier="advanced"/>
+        <element attributes="edge_encryption_enabled=true" label="Compliance Checklist Comments" max_length="4000" name="u_compliance_comments" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Document Comments" max_length="4000" name="u_document_comments" type="string"/>
+        <element label="Extend" max_length="40" name="u_extend" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="No" label="Extended" max_length="40" name="u_extended" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Extension Approval" max_length="40" name="u_extension_approved" type="string">
+            <choice>
+                <element label="Approved" sequence="0" value="Approved"/>
+                <element label="Rejected" sequence="1" value="Rejected"/>
+                <element label="Requested" sequence="2" value="Requested"/>
+            </choice>
+        </element>
+        <element label="Approval Timestamp" max_length="40" name="u_glide_date_time_2" read_only="true" type="glide_date_time"/>
+        <element label="Marketing Channel" mandatory="true" max_length="32" name="u_marketing_channel" reference="x_hcuk2_hcuk_finan_marketing_channels" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element label="New End Date" max_length="40" name="u_new_campaign_end" type="glide_date"/>
+        <element label="Promotion" max_length="32" name="u_promotion" read_only="true" reference="x_hcuk2_hcuk_finan_promotions" type="reference"/>
+        <element default="&lt;a href=&quot;/sys_attachment.do?sys_id=6e33103cdb600300243cf1061d9619e4&quot; target=&quot;_blank&quot;&gt;Click here to download Requestor Checklist Template&lt;/a&gt;" label="Template" max_length="1024" name="u_rc_template" read_only="true" type="url"/>
+        <element label="Approver Checklist" max_length="32" name="u_reference_1" reference="sys_attachment" reference_qual="javascript:&quot;table_sys_id=&quot; + current.sys_id" type="reference" use_reference_qualifier="advanced"/>
+        <element hint="Is the information provided consistent with any other information that HCUK provides to customers via other channels? E.g. Features of the agreement consistant with T&amp;C's, websites, letters, FAQ, other promotional material&#13;&#10;" label="Document" max_length="32" name="u_reference_2" read_only="true" reference="sys_attachment" type="reference"/>
+        <element default="javascript:gs.getUserID();" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="Requested by" max_length="32" name="u_requested_by" read_only="true" reference="sys_user" type="reference" use_dynamic_default="true"/>
+        <element label="Requestor Checklist" max_length="32" name="u_requestor_checklist" reference="sys_attachment" reference_qual="javascript:&quot;table_sys_id=&quot; + current.sys_id" type="reference" use_reference_qualifier="advanced"/>
+        <element attributes="edge_encryption_enabled=true" label="Requestor Checklist Comments" max_length="8000" name="u_requestor_comments" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Risk" mandatory="true" max_length="40" name="u_risk" type="string">
+            <choice>
+                <element label="High" sequence="0" value="High"/>
+                <element label="Medium" sequence="1" value="Medium"/>
+                <element label="Low" sequence="2" value="Low"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="Submission" label="State" max_length="40" name="u_status" read_only="true" type="string">
+            <choice>
+                <element label="Submission" sequence="0" value="Submission"/>
+                <element label="Published" sequence="1" value="Published"/>
+                <element label="Withdrawn" sequence="2" value="Withdrawn"/>
+                <element label="Ended" sequence="3" value="Ended"/>
+                <element label="Awaiting Decision" sequence="4" value="Awaiting Decision"/>
+                <element label="Active" sequence="5" value="Active"/>
+                <element label="Assign Compliance Approver" sequence="6" value="Assign Compliance Approver"/>
+                <element label="Awaiting Start Date" sequence="7" value="Awaiting Start Date"/>
+                <element label="Awaiting Approval" sequence="8" value="Awaiting Approval"/>
+                <element label="Rejected" sequence="9" value="Rejected"/>
+                <element label="Discarded" sequence="10" value="Discarded"/>
+            </choice>
+        </element>
+        <element label="Withdrawn by" max_length="32" name="withdrawn_by" read_only="true" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="u_marketing_channel"/>
+        </index>
+        <index name="index2">
+            <element name="u_reference_2"/>
+        </index>
+        <index name="index3">
+            <element name="u_compliance_checklist"/>
+        </index>
+        <index name="index4">
+            <element name="extension_approved_by"/>
+        </index>
+        <index name="index5">
+            <element name="u_reference_1"/>
+        </index>
+        <index name="index6">
+            <element name="withdrawn_by"/>
+        </index>
+        <index name="index7">
+            <element name="u_compliance_approver"/>
+        </index>
+        <index name="index8">
+            <element name="u_requestor_checklist"/>
+        </index>
+        <index name="index9">
+            <element name="u_promotion"/>
+        </index>
+        <index name="index10">
+            <element name="u_requested_by"/>
+        </index>
+        <index name="index11">
+            <element name="u_approved_by"/>
+        </index>
+    </element>
+</database>

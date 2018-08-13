@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Product Types" max_length="40" name="x_hcuk2_hcuk_finan_product_types" type="collection">
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" mandatory="true" max_length="2000" name="u_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Name" mandatory="true" max_length="100" name="u_name" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="content_block_menu">
+    <content_block_menu action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <align_sections_with_tab>false</align_sections_with_tab>
+        <category>general</category>
+        <condition/>
+        <conditional>false</conditional>
+        <frame/>
+        <logged_on>false</logged_on>
+        <name>Financial Promotions</name>
+        <sys_class_name>content_block_menu</sys_class_name>
+        <sys_created_by>!SCampbellH</sys_created_by>
+        <sys_created_on>2017-08-15 11:24:03</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>e0c07a5edb2c4300243cf1061d961925</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Financial Promotions</sys_name>
+        <sys_package display_value="HCUK Financial Promotions" source="x_hcuk2_hcuk_finan">47e0fca9dbd4c3005d69f7671d9619cd</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="HCUK Financial Promotions">47e0fca9dbd4c3005d69f7671d9619cd</sys_scope>
+        <sys_update_name>content_block_menu_e0c07a5edb2c4300243cf1061d961925</sys_update_name>
+        <sys_updated_by>!SCampbellH</sys_updated_by>
+        <sys_updated_on>2017-08-15 11:24:03</sys_updated_on>
+        <type>section_navigation</type>
+    </content_block_menu>
+</record_update>

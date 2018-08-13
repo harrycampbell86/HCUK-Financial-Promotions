@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_bu_approver" label="Business Unit Approver" language="en" table="x_hcuk2_hcuk_finan_promotions">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_bu_approver</element>
+            <help/>
+            <hint/>
+            <label>Business Unit Approver</label>
+            <language>en</language>
+            <name>x_hcuk2_hcuk_finan_promotions</name>
+            <plural>Business Unit Approvers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>!SCampbellH</sys_created_by>
+            <sys_created_on>2017-08-07 08:19:00</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>beb970ffdb544700243cf1061d96198d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Business Unit Approver</sys_name>
+            <sys_package display_value="HCUK Financial Promotions" source="x_hcuk2_hcuk_finan">47e0fca9dbd4c3005d69f7671d9619cd</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="HCUK Financial Promotions">47e0fca9dbd4c3005d69f7671d9619cd</sys_scope>
+            <sys_update_name>sys_documentation_x_hcuk2_hcuk_finan_promotions_u_bu_approver_en</sys_update_name>
+            <sys_updated_by>!SCampbellH</sys_updated_by>
+            <sys_updated_on>2017-08-07 08:19:00</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

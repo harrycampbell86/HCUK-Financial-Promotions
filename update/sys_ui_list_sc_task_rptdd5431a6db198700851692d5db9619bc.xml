@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="sc_task" version="2" view="RPTdd5431a6db198700851692d5db9619bc">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="sc_task" element="NULL" name="sc_task" parent="NULL" relationship="NULL" sys_domain="global" view="955431a6db198700851692d5db9619bd">c9e4bda6db198700851692d5db961974</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>!SCampbellH</sys_created_by>
+            <sys_created_on>2017-09-22 08:27:51</sys_created_on>
+            <sys_id>cde4bda6db198700851692d5db961974</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>!SCampbellH</sys_updated_by>
+            <sys_updated_on>2017-09-22 08:27:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>request_item</element>
+            <list_id display_value="sc_task" element="NULL" name="sc_task" parent="NULL" relationship="NULL" sys_domain="global" view="955431a6db198700851692d5db9619bd">c9e4bda6db198700851692d5db961974</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>!SCampbellH</sys_created_by>
+            <sys_created_on>2017-09-22 08:27:51</sys_created_on>
+            <sys_id>41e4bda6db198700851692d5db961975</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>!SCampbellH</sys_updated_by>
+            <sys_updated_on>2017-09-22 08:27:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>request.requested_for</element>
+            <list_id display_value="sc_task" element="NULL" name="sc_task" parent="NULL" relationship="NULL" sys_domain="global" view="955431a6db198700851692d5db9619bd">c9e4bda6db198700851692d5db961974</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>!SCampbellH</sys_created_by>
+            <sys_created_on>2017-09-22 08:27:51</sys_created_on>
+            <sys_id>c1e4bda6db198700851692d5db961975</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>!SCampbellH</sys_updated_by>
+            <sys_updated_on>2017-09-22 08:27:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>request_item.cat_item</element>
+            <list_id display_value="sc_task" element="NULL" name="sc_task" parent="NULL" relationship="NULL" sys_domain="global" view="955431a6db198700851692d5db9619bd">c9e4bda6db198700851692d5db961974</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>!SCampbellH</sys_created_by>
+            <sys_created_on>2017-09-22 08:27:51</sys_created_on>
+            <sys_id>45e4bda6db198700851692d5db961975</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>!SCampbellH</sys_updated_by>
+            <sys_updated_on>2017-09-22 08:27:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="sc_task" element="NULL" name="sc_task" parent="NULL" relationship="NULL" sys_domain="global" view="955431a6db198700851692d5db9619bd">c9e4bda6db198700851692d5db961974</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>!SCampbellH</sys_created_by>
+            <sys_created_on>2017-09-22 08:27:51</sys_created_on>
+            <sys_id>c5e4bda6db198700851692d5db961975</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>!SCampbellH</sys_updated_by>
+            <sys_updated_on>2017-09-22 08:27:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="sc_task" element="NULL" name="sc_task" parent="NULL" relationship="NULL" sys_domain="global" view="955431a6db198700851692d5db9619bd">c9e4bda6db198700851692d5db961974</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>!SCampbellH</sys_created_by>
+            <sys_created_on>2017-09-22 08:27:51</sys_created_on>
+            <sys_id>49e4bda6db198700851692d5db961975</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>!SCampbellH</sys_updated_by>
+            <sys_updated_on>2017-09-22 08:27:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assignment_group</element>
+            <list_id display_value="sc_task" element="NULL" name="sc_task" parent="NULL" relationship="NULL" sys_domain="global" view="955431a6db198700851692d5db9619bd">c9e4bda6db198700851692d5db961974</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>!SCampbellH</sys_created_by>
+            <sys_created_on>2017-09-22 08:27:51</sys_created_on>
+            <sys_id>c9e4bda6db198700851692d5db961975</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>!SCampbellH</sys_updated_by>
+            <sys_updated_on>2017-09-22 08:27:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="sc_task" element="NULL" name="sc_task" parent="NULL" relationship="NULL" sys_domain="global" view="955431a6db198700851692d5db9619bd">c9e4bda6db198700851692d5db961974</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>!SCampbellH</sys_created_by>
+            <sys_created_on>2017-09-22 08:27:51</sys_created_on>
+            <sys_id>4de4bda6db198700851692d5db961975</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>!SCampbellH</sys_updated_by>
+            <sys_updated_on>2017-09-22 08:27:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>due_date</element>
+            <list_id display_value="sc_task" element="NULL" name="sc_task" parent="NULL" relationship="NULL" sys_domain="global" view="955431a6db198700851692d5db9619bd">c9e4bda6db198700851692d5db961974</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>!SCampbellH</sys_created_by>
+            <sys_created_on>2017-09-22 08:27:51</sys_created_on>
+            <sys_id>cde4bda6db198700851692d5db961975</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>!SCampbellH</sys_updated_by>
+            <sys_updated_on>2017-09-22 08:27:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>opened_by</element>
+            <list_id display_value="sc_task" element="NULL" name="sc_task" parent="NULL" relationship="NULL" sys_domain="global" view="955431a6db198700851692d5db9619bd">c9e4bda6db198700851692d5db961974</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>!SCampbellH</sys_created_by>
+            <sys_created_on>2017-09-22 08:27:51</sys_created_on>
+            <sys_id>41e4bda6db198700851692d5db961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>!SCampbellH</sys_updated_by>
+            <sys_updated_on>2017-09-22 08:27:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>opened_at</element>
+            <list_id display_value="sc_task" element="NULL" name="sc_task" parent="NULL" relationship="NULL" sys_domain="global" view="955431a6db198700851692d5db9619bd">c9e4bda6db198700851692d5db961974</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>10</position>
+            <sum>false</sum>
+            <sys_created_by>!SCampbellH</sys_created_by>
+            <sys_created_on>2017-09-22 08:27:51</sys_created_on>
+            <sys_id>c1e4bda6db198700851692d5db961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>!SCampbellH</sys_updated_by>
+            <sys_updated_on>2017-09-22 08:27:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>variables.e461cdfb650285002a52b4583e3dac6c</element>
+            <list_id display_value="sc_task" element="NULL" name="sc_task" parent="NULL" relationship="NULL" sys_domain="global" view="955431a6db198700851692d5db9619bd">c9e4bda6db198700851692d5db961974</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>11</position>
+            <sum>false</sum>
+            <sys_created_by>!SCampbellH</sys_created_by>
+            <sys_created_on>2017-09-22 08:27:51</sys_created_on>
+            <sys_id>45e4bda6db198700851692d5db961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>!SCampbellH</sys_updated_by>
+            <sys_updated_on>2017-09-22 08:27:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>variables.6d4751075d419100ab27a7a4332581cd</element>
+            <list_id display_value="sc_task" element="NULL" name="sc_task" parent="NULL" relationship="NULL" sys_domain="global" view="955431a6db198700851692d5db9619bd">c9e4bda6db198700851692d5db961974</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>12</position>
+            <sum>false</sum>
+            <sys_created_by>!SCampbellH</sys_created_by>
+            <sys_created_on>2017-09-22 08:27:51</sys_created_on>
+            <sys_id>c5e4bda6db198700851692d5db961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>!SCampbellH</sys_updated_by>
+            <sys_updated_on>2017-09-22 08:27:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>sc_task</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>!SCampbellH</sys_created_by>
+            <sys_created_on>2017-09-22 08:27:51</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>c9e4bda6db198700851692d5db961974</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sc_task</sys_name>
+            <sys_package display_value="HCUK Financial Promotions" source="x_hcuk2_hcuk_finan">47e0fca9dbd4c3005d69f7671d9619cd</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="HCUK Financial Promotions">47e0fca9dbd4c3005d69f7671d9619cd</sys_scope>
+            <sys_update_name>sys_ui_list_sc_task_RPTdd5431a6db198700851692d5db9619bc</sys_update_name>
+            <sys_updated_by>!SCampbellH</sys_updated_by>
+            <sys_updated_on>2017-09-22 08:27:51</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rptdd5431a6db198700851692d5db9619bc" name="RPTdd5431a6db198700851692d5db9619bc">955431a6db198700851692d5db9619bd</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

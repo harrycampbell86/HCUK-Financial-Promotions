@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sysauto_script">
+    <sysauto_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <conditional>false</conditional>
+        <name>Check for Marketing docs expiring in 5 days</name>
+        <run_as display_value="Harry Campbell-Admin">c3413a6fbc4b21009e71c320f90d25ec</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period/>
+        <run_start>2017-08-14 11:51:00</run_start>
+        <run_time>1970-01-01 08:00:00</run_time>
+        <run_type>daily</run_type>
+        <script><![CDATA[  var tc = new GlideRecord('x_hcuk2_hcuk_finan_promotional_material');  
+      tc.addEncodedQuery('u_status=Active^u_campaign_endRELATIVEEE@dayofweek@ahead@5');
+      tc.query();        
+while(tc.next()){  
+    gs.eventQueue('x_hcuk2_hcuk_finan.mdoc_excpiry', tc);                 
+    }
+
+
+]]></script>
+        <sys_class_name>sysauto_script</sys_class_name>
+        <sys_created_by>!SCampbellH</sys_created_by>
+        <sys_created_on>2017-08-14 11:55:33</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>df6d2582dbe44300243cf1061d9619c5</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Check for Marketing docs expiring in 5 days</sys_name>
+        <sys_package display_value="HCUK Financial Promotions" source="x_hcuk2_hcuk_finan">47e0fca9dbd4c3005d69f7671d9619cd</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="HCUK Financial Promotions">47e0fca9dbd4c3005d69f7671d9619cd</sys_scope>
+        <sys_update_name>sysauto_script_df6d2582dbe44300243cf1061d9619c5</sys_update_name>
+        <sys_updated_by>!SCampbellH</sys_updated_by>
+        <sys_updated_on>2017-09-02 15:25:33</sys_updated_on>
+        <upgrade_safe>false</upgrade_safe>
+    </sysauto_script>
+</record_update>

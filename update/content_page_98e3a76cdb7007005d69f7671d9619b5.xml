@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="content_page" unload_date="2018-08-13 11:28:36">
+    <sys_portal action="delete_multiple" query="page=98e3a76cdb7007005d69f7671d9619b5">
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone10</dropzone>
+                <offset>0</offset>
+                <page display_value="">98e3a76cdb7007005d69f7671d9619b5</page>
+                <summary/>
+                <sys_created_by>!SCampbellH</sys_created_by>
+                <sys_created_on>2017-08-23 12:13:11</sys_created_on>
+                <sys_id>9dc8ccc1dbb003005d69f7671d961966</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>!SCampbellH</sys_updated_by>
+                <sys_updated_on>2017-08-23 12:13:11</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 23-08-2017 13:13">9dc8ccc1dbb003005d69f7671d961966</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2017-08-23 12:13:11</sys_created_on>
+                        <sys_id>19c8ccc1dbb003005d69f7671d961967</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2017-08-23 12:13:11</sys_updated_on>
+                        <value>CMS Clean Login - FP</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 23-08-2017 13:13">9dc8ccc1dbb003005d69f7671d961966</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2017-08-23 12:13:11</sys_created_on>
+                        <sys_id>55c8ccc1dbb003005d69f7671d961967</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2017-08-23 12:13:11</sys_updated_on>
+                        <value>content_block_programmatic</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 23-08-2017 13:13">9dc8ccc1dbb003005d69f7671d961966</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2017-08-23 12:13:11</sys_created_on>
+                        <sys_id>91c8ccc1dbb003005d69f7671d961967</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2017-08-23 12:13:11</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 23-08-2017 13:13">9dc8ccc1dbb003005d69f7671d961966</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2017-08-23 12:13:11</sys_created_on>
+                        <sys_id>d9c8ccc1dbb003005d69f7671d961967</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2017-08-23 12:13:11</sys_updated_on>
+                        <value>98e3a76cdb7007005d69f7671d9619b5</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 23-08-2017 13:13">9dc8ccc1dbb003005d69f7671d961966</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2017-08-23 12:13:11</sys_created_on>
+                        <sys_id>ddc8ccc1dbb003005d69f7671d961966</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2017-08-23 12:13:11</sys_updated_on>
+                        <value>a8c7bbfcdb7003005d69f7671d9619bc</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone0</dropzone>
+                <offset>0</offset>
+                <page display_value="">98e3a76cdb7007005d69f7671d9619b5</page>
+                <summary/>
+                <sys_created_by>!SCampbellH</sys_created_by>
+                <sys_created_on>2017-08-23 12:13:11</sys_created_on>
+                <sys_id>d1c8ccc1dbb003005d69f7671d961965</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>!SCampbellH</sys_updated_by>
+                <sys_updated_on>2017-08-23 12:13:11</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 23-08-2017 13:13">d1c8ccc1dbb003005d69f7671d961965</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2017-08-23 12:13:11</sys_created_on>
+                        <sys_id>11c8ccc1dbb003005d69f7671d961966</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2017-08-23 12:13:11</sys_updated_on>
+                        <value>98e3a76cdb7007005d69f7671d9619b5</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 23-08-2017 13:13">d1c8ccc1dbb003005d69f7671d961965</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2017-08-23 12:13:11</sys_created_on>
+                        <sys_id>15c8ccc1dbb003005d69f7671d961965</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2017-08-23 12:13:11</sys_updated_on>
+                        <value>55dfbe92db6c4300243cf1061d961986</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 23-08-2017 13:13">d1c8ccc1dbb003005d69f7671d961965</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2017-08-23 12:13:11</sys_created_on>
+                        <sys_id>5dc8ccc1dbb003005d69f7671d961965</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2017-08-23 12:13:11</sys_updated_on>
+                        <value>content_block_header</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 23-08-2017 13:13">d1c8ccc1dbb003005d69f7671d961965</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2017-08-23 12:13:11</sys_created_on>
+                        <sys_id>99c8ccc1dbb003005d69f7671d961965</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2017-08-23 12:13:11</sys_updated_on>
+                        <value>Financial Promotions Header</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 23-08-2017 13:13">d1c8ccc1dbb003005d69f7671d961965</portal_section>
+                        <sys_created_by>!SCampbellH</sys_created_by>
+                        <sys_created_on>2017-08-23 12:13:11</sys_created_on>
+                        <sys_id>d5c8ccc1dbb003005d69f7671d961965</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>!SCampbellH</sys_updated_by>
+                        <sys_updated_on>2017-08-23 12:13:11</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal>
+    <content_page action="INSERT_OR_UPDATE">
+        <content_site display_value="HCUK Financial Promotions">027f3e92db6c4300243cf1061d9619ae</content_site>
+        <content_theme display_value="FinPro Database">0a59baecdb3007005d69f7671d961910</content_theme>
+        <description/>
+        <frame_buster>false</frame_buster>
+        <layout display_value="Self Service - CMS 1 Column Iframe">32d2d9abe01555009e71216db8c7145a</layout>
+        <model_id/>
+        <model_table/>
+        <name>Portal - Login Page - FP</name>
+        <order/>
+        <parent_page/>
+        <read_roles/>
+        <roles/>
+        <selectable>true</selectable>
+        <sys_class_name>content_page</sys_class_name>
+        <sys_created_by>!SCampbellH</sys_created_by>
+        <sys_created_on>2017-08-22 14:53:31</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>98e3a76cdb7007005d69f7671d9619b5</sys_id>
+        <sys_mod_count>282</sys_mod_count>
+        <sys_name>Portal - Login Page - FP</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="HCUK Financial Promotions" source="x_hcuk2_hcuk_finan">47e0fca9dbd4c3005d69f7671d9619cd</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="HCUK Financial Promotions">47e0fca9dbd4c3005d69f7671d9619cd</sys_scope>
+        <sys_update_name>content_page_98e3a76cdb7007005d69f7671d9619b5</sys_update_name>
+        <sys_updated_by>!SCampbellH</sys_updated_by>
+        <sys_updated_on>2017-08-23 12:13:11</sys_updated_on>
+        <title/>
+        <url_suffix>portal_login</url_suffix>
+        <user/>
+        <view/>
+        <workflow_state>published</workflow_state>
+    </content_page>
+</record_update>

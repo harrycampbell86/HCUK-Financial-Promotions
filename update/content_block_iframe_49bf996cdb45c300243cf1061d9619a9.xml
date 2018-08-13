@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="content_block_iframe">
+    <content_block_iframe action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>general</category>
+        <condition/>
+        <conditional>false</conditional>
+        <frame/>
+        <frame_name>gsft_main</frame_name>
+        <height>600</height>
+        <logged_on>false</logged_on>
+        <name>FP - Awaiting Decision</name>
+        <sizing>expand</sizing>
+        <sys_class_name>content_block_iframe</sys_class_name>
+        <sys_created_by>!SCampbellH</sys_created_by>
+        <sys_created_on>2017-09-03 15:31:44</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>49bf996cdb45c300243cf1061d9619a9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>FP - Awaiting Decision</sys_name>
+        <sys_package display_value="HCUK Financial Promotions" source="x_hcuk2_hcuk_finan">47e0fca9dbd4c3005d69f7671d9619cd</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="HCUK Financial Promotions">47e0fca9dbd4c3005d69f7671d9619cd</sys_scope>
+        <sys_update_name>content_block_iframe_49bf996cdb45c300243cf1061d9619a9</sys_update_name>
+        <sys_updated_by>!SCampbellH</sys_updated_by>
+        <sys_updated_on>2017-09-15 11:26:48</sys_updated_on>
+        <url>x_hcuk2_hcuk_finan_promotional_material_list.do?sysparm_query=u_status%3DAwaiting%20Decision</url>
+        <width>400</width>
+    </content_block_iframe>
+</record_update>

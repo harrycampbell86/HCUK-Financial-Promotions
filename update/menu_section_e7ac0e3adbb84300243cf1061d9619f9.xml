@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="menu_section">
+    <menu_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <contains_menu/>
+        <content_block_menu display_value="Financial Promotions">e0c07a5edb2c4300243cf1061d961925</content_block_menu>
+        <db_left_menu_image/>
+        <db_right_menu_image/>
+        <detail_page/>
+        <footer/>
+        <header/>
+        <iframe>fpwindow</iframe>
+        <image/>
+        <image_right/>
+        <logged_on>true</logged_on>
+        <menu_section_color/>
+        <name>Approvers Area</name>
+        <omit_body>false</omit_body>
+        <order>25</order>
+        <roles>x_hcuk2_hcuk_finan_bu_approver,x_hcuk2_hcuk_finan_compliance_approver</roles>
+        <second_level_text/>
+        <sys_class_name>menu_section</sys_class_name>
+        <sys_created_by>!SCampbellH</sys_created_by>
+        <sys_created_on>2017-08-29 08:18:52</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>e7ac0e3adbb84300243cf1061d9619f9</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Approvers Area</sys_name>
+        <sys_package display_value="HCUK Financial Promotions" source="x_hcuk2_hcuk_finan">47e0fca9dbd4c3005d69f7671d9619cd</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="HCUK Financial Promotions">47e0fca9dbd4c3005d69f7671d9619cd</sys_scope>
+        <sys_update_name>menu_section_e7ac0e3adbb84300243cf1061d9619f9</sys_update_name>
+        <sys_updated_by>!SCampbellH</sys_updated_by>
+        <sys_updated_on>2017-09-08 10:39:07</sys_updated_on>
+        <tag/>
+        <target>iframe</target>
+        <type>url</type>
+        <url/>
+    </menu_section>
+</record_update>

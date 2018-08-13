@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="content_site">
+    <content_site action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <catalog_cartless>false</catalog_cartless>
+        <catalog_headless>false</catalog_headless>
+        <default_layout display_value="ESS portal layout">00b56caaed73c100ab277c96b52730ae</default_layout>
+        <default_page display_value="Financial Promotions Home">7baf7292db6c4300243cf1061d961991</default_page>
+        <default_theme display_value="FinPro Database">0a59baecdb3007005d69f7671d961910</default_theme>
+        <description/>
+        <gauge_page/>
+        <login_page display_value="Portal - Login Page - FP">98e3a76cdb7007005d69f7671d9619b5</login_page>
+        <name>HCUK Financial Promotions</name>
+        <search_page/>
+        <sys_class_name>content_site</sys_class_name>
+        <sys_created_by>!SCampbellH</sys_created_by>
+        <sys_created_on>2017-08-15 12:28:52</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>027f3e92db6c4300243cf1061d9619ae</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>HCUK Financial Promotions</sys_name>
+        <sys_package display_value="HCUK Financial Promotions" source="x_hcuk2_hcuk_finan">47e0fca9dbd4c3005d69f7671d9619cd</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="HCUK Financial Promotions">47e0fca9dbd4c3005d69f7671d9619cd</sys_scope>
+        <sys_update_name>content_site_027f3e92db6c4300243cf1061d9619ae</sys_update_name>
+        <sys_updated_by>!SCampbellH</sys_updated_by>
+        <sys_updated_on>2017-08-22 14:54:06</sys_updated_on>
+        <title/>
+        <url_suffix>fpro</url_suffix>
+    </content_site>
+</record_update>

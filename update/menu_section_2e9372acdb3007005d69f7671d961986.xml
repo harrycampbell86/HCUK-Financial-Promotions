@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="menu_section">
+    <menu_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <contains_menu/>
+        <content_block_menu/>
+        <db_left_menu_image/>
+        <db_right_menu_image/>
+        <detail_page/>
+        <footer/>
+        <header/>
+        <iframe>fpwindow</iframe>
+        <image/>
+        <image_right/>
+        <logged_on>false</logged_on>
+        <menu_section_color/>
+        <name>My Documents</name>
+        <omit_body>false</omit_body>
+        <order>20</order>
+        <roles/>
+        <second_level_text/>
+        <sys_class_name>menu_section</sys_class_name>
+        <sys_created_by>!SCampbellH</sys_created_by>
+        <sys_created_on>2017-08-22 11:23:14</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>2e9372acdb3007005d69f7671d961986</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>My Documents</sys_name>
+        <sys_package display_value="HCUK Financial Promotions" source="x_hcuk2_hcuk_finan">47e0fca9dbd4c3005d69f7671d9619cd</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="HCUK Financial Promotions">47e0fca9dbd4c3005d69f7671d9619cd</sys_scope>
+        <sys_update_name>menu_section_2e9372acdb3007005d69f7671d961986</sys_update_name>
+        <sys_updated_by>!SCampbellH</sys_updated_by>
+        <sys_updated_on>2017-08-22 11:23:40</sys_updated_on>
+        <tag/>
+        <target>iframe</target>
+        <type>url</type>
+        <url>x_hcuk2_hcuk_finan_promotional_material_list.do?sysparm_query=u_requested_byDYNAMIC90d1921e5f510100a9ad2572f2b477fe</url>
+    </menu_section>
+</record_update>

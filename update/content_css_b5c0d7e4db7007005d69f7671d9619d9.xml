@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="content_css">
+    <content_css action="INSERT_OR_UPDATE">
+        <name>Default CSS - Header Styles - FP</name>
+        <style>/*************************************************&#13;
+Header styles&#13;
+*************************************************/&#13;
+&#13;
+div.cms_header, div.cms_header table {&#13;
+	/*width: 100%;&#13;
+	border: 1px solid #000;*/&#13;
+&#13;
+background: rgb(255,255,255); /* Old browsers */&#13;
+background: -moz-linear-gradient(45deg, rgba(255,255,255,1) 0%, rgba(254,254,254,1) 8%, rgba(254,254,254,1) 18%, rgba(219,219,219,1) 70%, rgba(209,209,209,1) 100%); /* FF3.6-15 */&#13;
+background: -webkit-linear-gradient(45deg, rgba(255,255,255,1) 0%,rgba(254,254,254,1) 8%,rgba(254,254,254,1) 18%,rgba(219,219,219,1) 70%,rgba(209,209,209,1) 100%); /* Chrome10-25,Safari5.1-6 */&#13;
+background: linear-gradient(45deg, rgba(255,255,255,1) 0%,rgba(254,254,254,1) 8%,rgba(254,254,254,1) 18%,rgba(219,219,219,1) 70%,rgba(209,209,209,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */&#13;
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#d1d1d1',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */&#13;
+       &#13;
+}&#13;
+&#13;
+td.cms_header_logo{&#13;
+	width: 1px;&#13;
+       padding-top:10px;&#13;
+       padding-left:10px;&#13;
+       padding-bottom:10px;&#13;
+}&#13;
+&#13;
+div.cms_header table.cms_header_table {&#13;
+	background: #FFF url(cms_header_background.pngx) repeat-x left bottom;&#13;
+&#13;
+}&#13;
+&#13;
+div.cms_header table td {&#13;
+	background: transparent;&#13;
+}&#13;
+&#13;
+tr.cms_header_top_menu_row {&#13;
+        height: 0px;&#13;
+        margin: 0px;&#13;
+        padding: 0px;&#13;
+        line-height: 0px;&#13;
+	background: #FFF url(cms_header_background.pngx) repeat-x left top;&#13;
+		/*white-space: nowrap;*/&#13;
+}&#13;
+&#13;
+div.cms_header_top_menu, div.cms_header_login, div.cms_header_font_size, div.cms_header_search, div.cms_header_clear {&#13;
+	/*line-height: 0px;&#13;
+	height:0px;*/&#13;
+}&#13;
+&#13;
+td.cms_header_top_menu {&#13;
+	text-align: right;&#13;
+	margin: 0px;&#13;
+	padding: 0px;&#13;
+	width:100%; &#13;
+	/*white-space:nowrap; */&#13;
+	display:inline;&#13;
+}&#13;
+&#13;
+td.cms_header_top_menu div.cms_header_login, td.cms_header_top_menu div.cms_header_font_size, td.cms_header_top_menu div.cms_header_search, td.cms_header_top_menu div.cms_header_clear{&#13;
+	display:inline; &#13;
+	float:right; &#13;
+	white-space:nowrap;&#13;
+} &#13;
+&#13;
+td.cms_header_top_menu div.cms_header_clear{&#13;
+	clear:both; &#13;
+}&#13;
+&#13;
+/*  Top Row styles and alignment*/&#13;
+/* search removes down arrow */&#13;
+img#imgText2 {&#13;
+	display: none;&#13;
+} &#13;
+&#13;
+/* login and logout */&#13;
+td.cms_header_login, td.cms_header_search {&#13;
+	text-align: right;&#13;
+	/*white-space: nowrap;*/&#13;
+}&#13;
+&#13;
+ td.cms_header_search {&#13;
+	padding-left: 4px;&#13;
+}&#13;
+&#13;
+/* for the user name/password 4fields when a login fails */&#13;
+.cms_login_failed_inputs {&#13;
+        background-color: #ffffcc&#13;
+}&#13;
+&#13;
+/* for the message that appears under the user name/password when a login fails */&#13;
+.cms_login_failed_message {&#13;
+        background-color: tomato;&#13;
+        color: white;&#13;
+        padding: 3px 20px 3px 20px;&#13;
+}  &#13;
+&#13;
+td.cms_header_text {&#13;
+	padding-top: 6px;&#13;
+	text-align: left;&#13;
+}  &#13;
+&#13;
+span.cms_header_text {&#13;
+	color: #AAA;&#13;
+	font-size:1.4em;&#13;
+	font-family:"Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;&#13;
+	margin-left: 16px;&#13;
+} &#13;
+&#13;
+tr.cms_header_bottom_menu_row {&#13;
+        height: 2px;&#13;
+        margin: 0px;&#13;
+	padding: 0px;&#13;
+        line-height: 0px;&#13;
+	text-align:left;&#13;
+        background: #e60027&#13;
+}&#13;
+&#13;
+tr.cms_header_bottom_menu_row, td.cms_header_bottom_menu {&#13;
+	/*line-height: 24px;&#13;
+	height:24px;*/&#13;
+}&#13;
+&#13;
+td.cms_header_bottom_menu a {&#13;
+	color: #fff !important;	&#13;
+}</style>
+        <sys_class_name>content_css</sys_class_name>
+        <sys_created_by>!SCampbellH</sys_created_by>
+        <sys_created_on>2017-08-22 13:30:03</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>b5c0d7e4db7007005d69f7671d9619d9</sys_id>
+        <sys_mod_count>39</sys_mod_count>
+        <sys_name>Default CSS - Header Styles - FP</sys_name>
+        <sys_package display_value="HCUK Financial Promotions" source="x_hcuk2_hcuk_finan">47e0fca9dbd4c3005d69f7671d9619cd</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="HCUK Financial Promotions">47e0fca9dbd4c3005d69f7671d9619cd</sys_scope>
+        <sys_update_name>content_css_b5c0d7e4db7007005d69f7671d9619d9</sys_update_name>
+        <sys_updated_by>!SCampbellH</sys_updated_by>
+        <sys_updated_on>2017-08-23 13:07:01</sys_updated_on>
+        <type>local</type>
+        <url/>
+    </content_css>
+</record_update>

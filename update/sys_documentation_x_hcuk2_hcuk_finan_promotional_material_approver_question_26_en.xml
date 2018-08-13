@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="approver_question_26" label="Are there are Representative Examples triggers?" language="en" table="x_hcuk2_hcuk_finan_promotional_material">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>approver_question_26</element>
+            <help/>
+            <hint>A trigger would include:
+
+- a rate of interest (e.g. 5.5%p.a. or 6.9% APR)
+- an amount relating to the cost of credit whether expressed as a sum of money or a proportion of a specified amount. (e.g. 'from £125.36 per month', 'Borrow £10k and only pay £500 in interest')</hint>
+            <label>Are there are Representative Examples triggers?</label>
+            <language>en</language>
+            <name>x_hcuk2_hcuk_finan_promotional_material</name>
+            <plural>Are there are Representative Examples triggers?s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>!SCampbellH</sys_created_by>
+            <sys_created_on>2017-08-15 06:39:57</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>82cf6d16dbe84300243cf1061d96196b</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Are there are Representative Examples triggers?</sys_name>
+            <sys_package display_value="HCUK Financial Promotions" source="x_hcuk2_hcuk_finan">47e0fca9dbd4c3005d69f7671d9619cd</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="HCUK Financial Promotions">47e0fca9dbd4c3005d69f7671d9619cd</sys_scope>
+            <sys_update_name>sys_documentation_x_hcuk2_hcuk_finan_promotional_material_approver_question_26_en</sys_update_name>
+            <sys_updated_by>!SCampbellH</sys_updated_by>
+            <sys_updated_on>2017-09-14 07:38:02</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

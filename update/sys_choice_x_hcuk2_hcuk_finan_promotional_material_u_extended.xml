@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_extended" table="x_hcuk2_hcuk_finan_promotional_material" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_extended</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Yes</label>
+            <language>en</language>
+            <name>x_hcuk2_hcuk_finan_promotional_material</name>
+            <sequence>0</sequence>
+            <sys_created_by>!SCampbellH</sys_created_by>
+            <sys_created_on>2017-09-11 09:43:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>03cc95030f054f0011cae44be1050e26</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>!SCampbellH</sys_updated_by>
+            <sys_updated_on>2017-09-11 09:43:51</sys_updated_on>
+            <value>Yes</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_extended</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No</label>
+            <language>en</language>
+            <name>x_hcuk2_hcuk_finan_promotional_material</name>
+            <sequence>1</sequence>
+            <sys_created_by>!SCampbellH</sys_created_by>
+            <sys_created_on>2017-09-11 09:43:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>87cc95030f054f0011cae44be1050e26</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>!SCampbellH</sys_updated_by>
+            <sys_updated_on>2017-09-11 09:43:51</sys_updated_on>
+            <value>No</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_extended</element>
+            <name>x_hcuk2_hcuk_finan_promotional_material</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>!SCampbellH</sys_created_by>
+            <sys_created_on>2017-09-11 09:43:51</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>c3cc95030f054f0011cae44be1050e26</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>u_extended</sys_name>
+            <sys_package display_value="HCUK Financial Promotions" source="x_hcuk2_hcuk_finan">47e0fca9dbd4c3005d69f7671d9619cd</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="HCUK Financial Promotions">47e0fca9dbd4c3005d69f7671d9619cd</sys_scope>
+            <sys_update_name>sys_choice_x_hcuk2_hcuk_finan_promotional_material_u_extended</sys_update_name>
+            <sys_updated_by>!SCampbellH</sys_updated_by>
+            <sys_updated_on>2017-09-11 09:43:51</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

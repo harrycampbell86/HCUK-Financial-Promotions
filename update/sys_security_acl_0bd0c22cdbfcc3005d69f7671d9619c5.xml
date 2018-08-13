@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition table="x_hcuk2_hcuk_finan_promotional_material.approver_question_27">approval_channel=Compliance^u_status=Awaiting Approval^EQ<item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <description>Allow write for approver_question_27 in x_hcuk2_hcuk_finan_promotional_material, for users with role x_hcuk2_hcuk_finan_compliance_user, and if the ACL condition (approval_channel=Compliance^u_status=Awaiting Approval^EQ) evaluates to true.</description>
+        <name>x_hcuk2_hcuk_finan_promotional_material.approver_question_27</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>!SCampbellH</sys_created_by>
+        <sys_created_on>2017-08-22 07:40:53</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>0bd0c22cdbfcc3005d69f7671d9619c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_hcuk2_hcuk_finan_promotional_material.approver_question_27</sys_name>
+        <sys_package display_value="HCUK Financial Promotions" source="x_hcuk2_hcuk_finan">47e0fca9dbd4c3005d69f7671d9619cd</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="HCUK Financial Promotions">47e0fca9dbd4c3005d69f7671d9619cd</sys_scope>
+        <sys_update_name>sys_security_acl_0bd0c22cdbfcc3005d69f7671d9619c5</sys_update_name>
+        <sys_updated_by>!SCampbellH</sys_updated_by>
+        <sys_updated_on>2017-08-22 07:40:53</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

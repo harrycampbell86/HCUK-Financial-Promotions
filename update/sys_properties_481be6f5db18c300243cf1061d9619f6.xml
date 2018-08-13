@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Promotional Material activity formatter fields</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.ui.x_hcuk2_hcuk_finan_promotional_material_activity.fields</name>
+        <read_roles/>
+        <suffix/>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>!SCampbellH</sys_created_by>
+        <sys_created_on>2017-08-01 11:26:18</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>481be6f5db18c300243cf1061d9619f6</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>glide.ui.x_hcuk2_hcuk_finan_promotional_material_activity.fields</sys_name>
+        <sys_package display_value="HCUK Financial Promotions" source="x_hcuk2_hcuk_finan">47e0fca9dbd4c3005d69f7671d9619cd</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="HCUK Financial Promotions">47e0fca9dbd4c3005d69f7671d9619cd</sys_scope>
+        <sys_update_name>sys_properties_481be6f5db18c300243cf1061d9619f6</sys_update_name>
+        <sys_updated_by>!SCampbellH</sys_updated_by>
+        <sys_updated_on>2017-09-03 15:14:11</sys_updated_on>
+        <type>string</type>
+        <value>u_promotion,u_marketing_channel,u_approval,u_approvers,*Attachments*,sys_mod_count,sys_created_on,sys_created_by,sys_updated_on,sys_updated_by,u_status,u_campaign_end,u_campaign_start,u_extend,u_new_campaign_end,u_requestor_checklist,u_reference_1,u_reference_2,*Relations*,approval_channel,u_glide_date_time_2,u_approved_by,date_withdrawn,document_approved,u_document_comments,u_extension_approved,extension_approval_timestamp,extension_approved_by,u_choice_2,withdrawn_by,*Email*,requestor_question_6,u_approver_comments,u_requestor_comments,u_risk,u_requested_by</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=481be6f5db18c300243cf1061d9619f6"/>
+</record_update>

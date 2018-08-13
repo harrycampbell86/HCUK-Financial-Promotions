@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_related sys_domain="global" table="sys_user" version="2" view="financial_promotions">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="User - Financial Promotions" name="sys_user" related_list="NULL" sys_domain="global" view="492a31970fc947003a5bc9cce1050e88">b45c71d70fc947003a5bc9cce1050eef</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>!SCampbellH</sys_created_by>
+            <sys_created_on>2017-09-12 06:40:04</sys_created_on>
+            <sys_id>b85c71d70fc947003a5bc9cce1050eef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>!SCampbellH</sys_updated_by>
+            <sys_updated_on>2017-09-12 06:40:04</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>User - Financial Promotions</calculated_name>
+            <filter/>
+            <name>sys_user</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>!SCampbellH</sys_created_by>
+            <sys_created_on>2017-09-12 06:40:04</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>b45c71d70fc947003a5bc9cce1050eef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>User - Financial Promotions</sys_name>
+            <sys_package display_value="HCUK Financial Promotions" source="x_hcuk2_hcuk_finan">47e0fca9dbd4c3005d69f7671d9619cd</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="HCUK Financial Promotions">47e0fca9dbd4c3005d69f7671d9619cd</sys_scope>
+            <sys_update_name>sys_ui_related_sys_user_financial_promotions</sys_update_name>
+            <sys_updated_by>!SCampbellH</sys_updated_by>
+            <sys_updated_on>2017-09-12 06:40:04</sys_updated_on>
+            <sys_user/>
+            <view display_value="Financial Promotions" name="financial_promotions">492a31970fc947003a5bc9cce1050e88</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

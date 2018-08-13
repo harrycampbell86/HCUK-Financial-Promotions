@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="menu_item">
+    <menu_item action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <detail_page display_value="FP - New Promotion">fa485ae0db3007005d69f7671d9619ba</detail_page>
+        <iframe>fpwindow</iframe>
+        <image/>
+        <logged_on>true</logged_on>
+        <menu_section display_value="Requestors Area">5356def3dbf807005d69f7671d96192f</menu_section>
+        <name>New Promotion</name>
+        <order>1</order>
+        <roles/>
+        <sys_class_name>menu_item</sys_class_name>
+        <sys_created_by>!SCampbellH</sys_created_by>
+        <sys_created_on>2017-08-22 11:35:42</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>a776feacdb3007005d69f7671d961997</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>New Promotion</sys_name>
+        <sys_package display_value="HCUK Financial Promotions" source="x_hcuk2_hcuk_finan">47e0fca9dbd4c3005d69f7671d9619cd</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="HCUK Financial Promotions">47e0fca9dbd4c3005d69f7671d9619cd</sys_scope>
+        <sys_update_name>menu_item_a776feacdb3007005d69f7671d961997</sys_update_name>
+        <sys_updated_by>!SCampbellH</sys_updated_by>
+        <sys_updated_on>2017-09-08 10:38:13</sys_updated_on>
+        <tag/>
+        <target>internal</target>
+        <type>content_page</type>
+        <url>x_hcuk2_hcuk_finan_promotions.do</url>
+    </menu_item>
+</record_update>

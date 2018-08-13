@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sysevent_email_action">
+    <sysevent_email_action action="INSERT_OR_UPDATE">
+        <action_insert>false</action_insert>
+        <action_update>true</action_update>
+        <active>true</active>
+        <advanced_condition/>
+        <affected_field_on_event/>
+        <category display_value="Financial Promotions" name="Financial Promotions">f21fe850dbbd5340835396d8db9619bc</category>
+        <collection>x_hcuk2_hcuk_finan_promotional_material</collection>
+        <condition table="x_hcuk2_hcuk_finan_promotional_material">u_status=Awaiting Approval^approval_channel=Compliance^EQ<item endquery="false" field="u_status" goto="false" newquery="false" operator="=" or="false" value="Awaiting Approval"/>
+            <item endquery="false" field="approval_channel" goto="false" newquery="false" operator="=" or="false" value="Compliance"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <content_type>text/html</content_type>
+        <default_interval/>
+        <description/>
+        <digest_from/>
+        <digest_html/>
+        <digest_reply_to/>
+        <digest_separator_html><![CDATA[<br><hr><br>]]></digest_separator_html>
+        <digest_separator_text><![CDATA[\n--------------------------------------------------------------------------------\n]]></digest_separator_text>
+        <digest_subject/>
+        <digest_template/>
+        <digest_text/>
+        <digestable>false</digestable>
+        <event_name/>
+        <event_parm_1>false</event_parm_1>
+        <event_parm_2>false</event_parm_2>
+        <exclude_delegates>false</exclude_delegates>
+        <force_delivery>false</force_delivery>
+        <from/>
+        <generation_type>engine</generation_type>
+        <group/>
+        <group_field/>
+        <importance/>
+        <include_attachments>false</include_attachments>
+        <item>event.parm1</item>
+        <item_table/>
+        <list/>
+        <list_field/>
+        <mandatory>false</mandatory>
+        <message/>
+        <message_html><![CDATA[<p align="center"><img style="align: baseline;" title="" src="hitachi-logo.gif" alt="" align="bottom" border="" hspace="" vspace="" /></p>
+<p align="center"><span style="font-size: 10pt;">A marketing document requires compliance&nbsp;approval</span></p>
+<style type="text/css"><!--
+.tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;}
+.tg .tg-s6z2{text-align:center}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-spn1{background-color:#f9f9f9;text-align:center}
+.tg .tg-dzk6{background-color:#f9f9f9;text-align:center;vertical-align:top}
+@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}
+--></style>
+<div class="tg-wrap">
+<table class="tg" style="height: 339px;" width="595" align="center">
+<tbody>
+<tr><th class="tg-s6z2" colspan="2">Marketing Document</th></tr>
+<tr>
+<td class="tg-spn1">Number:</td>
+<td class="tg-spn1">${number}</td>
+</tr>
+<tr>
+<td class="tg-s6z2">Promotion:</td>
+<td class="tg-s6z2">${u_promotion}</td>
+</tr>
+<tr>
+<td class="tg-spn1">Requested by:</td>
+<td class="tg-spn1">${u_requested_by}</td>
+</tr>
+<tr>
+<td class="tg-s6z2">Marketing Channel:</td>
+<td class="tg-s6z2">${u_marketing_channel}</td>
+</tr>
+<tr>
+<td class="tg-dzk6">Product:</td>
+<td class="tg-spn1">${u_promotion.u_product}</td>
+</tr>
+<tr>
+<td class="tg-baqh">Risk:</td>
+<td class="tg-s6z2">${u_risk}&nbsp;</td>
+</tr>
+<tr>
+<td class="tg-dzk6">Campaign Start Date:</td>
+<td class="tg-spn1">${u_campaign_start}</td>
+</tr>
+<tr>
+<td class="tg-baqh">Campaign End Date:</td>
+<td class="tg-s6z2">${u_campaign_end}</td>
+</tr>
+<tr>
+<td class="tg-dzk6">Link:</td>
+<td class="tg-spn1">${CMS_URI+fpro/dd}</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p align="center">&nbsp;</p>
+<p>&nbsp;</p>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>Promotional Material Compliance Review</name>
+        <omit_watermark>false</omit_watermark>
+        <order/>
+        <push_message_only>false</push_message_only>
+        <recipient_fields/>
+        <recipient_groups/>
+        <recipient_users>groupcompliance@hitachicapital.co.uk</recipient_users>
+        <reply_to/>
+        <send_self>true</send_self>
+        <sms_alternate/>
+        <style/>
+        <subject>A Marketing Document requires compliance approval</subject>
+        <subscribable>false</subscribable>
+        <sys_class_name>sysevent_email_action</sys_class_name>
+        <sys_created_by>!SCampbellH</sys_created_by>
+        <sys_created_on>2017-08-14 08:31:04</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>48af748adb644300243cf1061d961908</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>Promotional Material Compliance Review</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="HCUK Financial Promotions" source="x_hcuk2_hcuk_finan">47e0fca9dbd4c3005d69f7671d9619cd</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="HCUK Financial Promotions">47e0fca9dbd4c3005d69f7671d9619cd</sys_scope>
+        <sys_update_name>sysevent_email_action_48af748adb644300243cf1061d961908</sys_update_name>
+        <sys_updated_by>!SCampbellH</sys_updated_by>
+        <sys_updated_on>2018-04-26 20:21:45</sys_updated_on>
+        <sys_version>2</sys_version>
+        <template/>
+        <type>email</type>
+        <user/>
+        <user_field/>
+        <weight>0</weight>
+    </sysevent_email_action>
+</record_update>

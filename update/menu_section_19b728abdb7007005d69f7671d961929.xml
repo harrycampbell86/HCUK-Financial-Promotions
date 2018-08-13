@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="menu_section">
+    <menu_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <contains_menu/>
+        <content_block_menu display_value="Guides">89a7e8abdb7007005d69f7671d961977</content_block_menu>
+        <db_left_menu_image/>
+        <db_right_menu_image/>
+        <detail_page/>
+        <footer/>
+        <header/>
+        <iframe/>
+        <image/>
+        <image_right/>
+        <logged_on>false</logged_on>
+        <menu_section_color/>
+        <name>Document Management</name>
+        <omit_body>false</omit_body>
+        <order/>
+        <roles/>
+        <second_level_text/>
+        <sys_class_name>menu_section</sys_class_name>
+        <sys_created_by>!SCampbellH</sys_created_by>
+        <sys_created_on>2017-08-31 08:56:37</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>19b728abdb7007005d69f7671d961929</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Document Management</sys_name>
+        <sys_package display_value="HCUK Financial Promotions" source="x_hcuk2_hcuk_finan">47e0fca9dbd4c3005d69f7671d9619cd</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="HCUK Financial Promotions">47e0fca9dbd4c3005d69f7671d9619cd</sys_scope>
+        <sys_update_name>menu_section_19b728abdb7007005d69f7671d961929</sys_update_name>
+        <sys_updated_by>!SCampbellH</sys_updated_by>
+        <sys_updated_on>2017-08-31 09:00:06</sys_updated_on>
+        <tag/>
+        <target>internal</target>
+        <type>content_page</type>
+        <url/>
+    </menu_section>
+</record_update>
